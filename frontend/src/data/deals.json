@@ -1,0 +1,6658 @@
+[
+  {
+    "id": 1,
+    "name": "TCS Merger",
+    "client": "TCS",
+    "type": "M&A",
+    "sector": "Healthcare",
+    "year": 2021,
+    "value_cr": 13324.3,
+    "status": "Closed",
+    "team": [
+      "Neha Jain"
+    ],
+    "files": [
+      "IM_TCS.pdf",
+      "DCF_Model_TCS.xlsx",
+      "Mgmt_Presentation_TCS.pptx",
+      "Valuation_Bridge_TCS.xlsx",
+      "NDA_TCS.pdf"
+    ],
+    "tags": [
+      "Cross-border",
+      "Strategic"
+    ],
+    "region": "US",
+    "revenue_cr": 170.5,
+    "source": "mock_generator"
+  },
+  {
+    "id": 2,
+    "name": "Oyo Rights Issue",
+    "client": "Oyo",
+    "type": "ECM",
+    "sector": "Other",
+    "year": 2024,
+    "value_cr": 3398.4,
+    "status": "Closed",
+    "team": [
+      "Priya Sharma"
+    ],
+    "files": [
+      "Prospectus_Oyo.pdf",
+      "IPO_Model_Oyo.xlsx",
+      "Anchor_Deck_Oyo.pptx",
+      "Roadshow_Pres_Oyo.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 72.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 3,
+    "name": "Cred Growth Equity",
+    "client": "Cred",
+    "type": "PE/VC",
+    "sector": "EdTech",
+    "year": 2022,
+    "value_cr": 8284.1,
+    "status": "Closed",
+    "team": [
+      "Arjun Mehta"
+    ],
+    "files": [
+      "CIM_Cred.pdf",
+      "VC_Model_Cred.xlsx",
+      "Investor_Deck_Cred.pptx",
+      "Term_Sheet_Cred.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 146.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 4,
+    "name": "Lenskart Buyout",
+    "client": "Lenskart",
+    "type": "M&A",
+    "sector": "Other",
+    "year": 2021,
+    "value_cr": 6275.6,
+    "status": "Closed",
+    "team": [
+      "Priya Sharma",
+      "Vikram Patel"
+    ],
+    "files": [
+      "IM_Lenskart.pdf",
+      "DCF_Model_Lenskart.xlsx",
+      "Mgmt_Presentation_Lenskart.pptx",
+      "Valuation_Bridge_Lenskart.xlsx",
+      "NDA_Lenskart.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 66.1,
+    "source": "mock_generator"
+  },
+  {
+    "id": 5,
+    "name": "Razorpay Series C",
+    "client": "Razorpay",
+    "type": "PE/VC",
+    "sector": "EdTech",
+    "year": 2019,
+    "value_cr": 538.9,
+    "status": "In Progress",
+    "team": [
+      "Ananya Roy"
+    ],
+    "files": [
+      "CIM_Razorpay.pdf",
+      "VC_Model_Razorpay.xlsx",
+      "Investor_Deck_Razorpay.pptx",
+      "Term_Sheet_Razorpay.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 11.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 6,
+    "name": "Cipla $500M Notes",
+    "client": "Cipla",
+    "type": "DCM",
+    "sector": "Healthcare",
+    "year": 2024,
+    "value_cr": 504.6,
+    "status": "Closed",
+    "team": [
+      "Neha Jain",
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "Offering_Memo_Cipla.pdf",
+      "Credit_Model_Cipla.xlsx",
+      "Rating_Agency_Pres_Cipla.pptx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 1.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 7,
+    "name": "Upstox Series C",
+    "client": "Upstox",
+    "type": "PE/VC",
+    "sector": "Consumer Tech",
+    "year": 2021,
+    "value_cr": 14919.9,
+    "status": "In Progress",
+    "team": [
+      "Karan Singh",
+      "Vikram Patel"
+    ],
+    "files": [
+      "CIM_Upstox.pdf",
+      "VC_Model_Upstox.xlsx",
+      "Term_Sheet_Upstox.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 357.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 8,
+    "name": "Curefit Spin-off",
+    "client": "Curefit",
+    "type": "M&A",
+    "sector": "Fintech",
+    "year": 2020,
+    "value_cr": 14135.3,
+    "status": "Closed",
+    "team": [
+      "Priya Sharma",
+      "Rohan Gupta"
+    ],
+    "files": [
+      "IM_Curefit.pdf",
+      "DCF_Model_Curefit.xlsx",
+      "Mgmt_Presentation_Curefit.pptx",
+      "Valuation_Bridge_Curefit.xlsx",
+      "NDA_Curefit.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 166.5,
+    "source": "mock_generator"
+  },
+  {
+    "id": 9,
+    "name": "Udaan $500M Notes",
+    "client": "Udaan",
+    "type": "DCM",
+    "sector": "Healthcare",
+    "year": 2019,
+    "value_cr": 1564.3,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor",
+      "Neha Jain"
+    ],
+    "files": [
+      "Offering_Memo_Udaan.pdf",
+      "Credit_Model_Udaan.xlsx",
+      "Rating_Agency_Pres_Udaan.pptx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 3.8,
+    "source": "mock_generator"
+  },
+  {
+    "id": 10,
+    "name": "Dr Reddys IPO",
+    "client": "Dr Reddys",
+    "type": "ECM",
+    "sector": "Fintech",
+    "year": 2024,
+    "value_cr": 10295.7,
+    "status": "Closed",
+    "team": [
+      "Rohan Gupta",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "Prospectus_DrReddys.pdf",
+      "IPO_Model_DrReddys.xlsx",
+      "Anchor_Deck_DrReddys.pptx",
+      "Roadshow_Pres_DrReddys.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 344.1,
+    "source": "mock_generator"
+  },
+  {
+    "id": 11,
+    "name": "L&T Spin-off",
+    "client": "L&T",
+    "type": "M&A",
+    "sector": "Healthcare",
+    "year": 2021,
+    "value_cr": 11029.4,
+    "status": "Pipeline",
+    "team": [
+      "Neha Jain",
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "IM_L&T.pdf",
+      "DCF_Model_L&T.xlsx",
+      "Mgmt_Presentation_L&T.pptx",
+      "Valuation_Bridge_L&T.xlsx",
+      "NDA_L&T.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 155.2,
+    "source": "mock_generator"
+  },
+  {
+    "id": 12,
+    "name": "ShareChat Buyout",
+    "client": "ShareChat",
+    "type": "M&A",
+    "sector": "Infrastructure",
+    "year": 2021,
+    "value_cr": 7217.9,
+    "status": "Pipeline",
+    "team": [
+      "Rishi Kapoor",
+      "Rohan Gupta",
+      "Neha Jain"
+    ],
+    "files": [
+      "IM_ShareChat.pdf",
+      "DCF_Model_ShareChat.xlsx",
+      "Mgmt_Presentation_ShareChat.pptx",
+      "Valuation_Bridge_ShareChat.xlsx",
+      "NDA_ShareChat.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 55.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 13,
+    "name": "Bajaj Auto Merger",
+    "client": "Bajaj Auto",
+    "type": "M&A",
+    "sector": "BFSI",
+    "year": 2021,
+    "value_cr": 13416.3,
+    "status": "Closed",
+    "team": [
+      "Neha Jain",
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "IM_BajajAuto.pdf",
+      "DCF_Model_BajajAuto.xlsx",
+      "Mgmt_Presentation_BajajAuto.pptx",
+      "Valuation_Bridge_BajajAuto.xlsx"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 197.2,
+    "source": "mock_generator"
+  },
+  {
+    "id": 14,
+    "name": "Ola $500M Notes",
+    "client": "Ola",
+    "type": "DCM",
+    "sector": "Consumer Tech",
+    "year": 2018,
+    "value_cr": 10226.9,
+    "status": "Pipeline",
+    "team": [
+      "Ananya Roy",
+      "Karan Singh",
+      "Vikram Patel"
+    ],
+    "files": [
+      "Offering_Memo_Ola.pdf",
+      "Rating_Agency_Pres_Ola.pptx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 46.8,
+    "source": "mock_generator"
+  },
+  {
+    "id": 15,
+    "name": "ShareChat Series D",
+    "client": "ShareChat",
+    "type": "PE/VC",
+    "sector": "BFSI",
+    "year": 2020,
+    "value_cr": 7158.1,
+    "status": "Closed",
+    "team": [
+      "Neha Jain",
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "CIM_ShareChat.pdf",
+      "VC_Model_ShareChat.xlsx",
+      "Investor_Deck_ShareChat.pptx",
+      "Term_Sheet_ShareChat.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 94.8,
+    "source": "mock_generator"
+  },
+  {
+    "id": 16,
+    "name": "Bharti Airtel Spin-off",
+    "client": "Bharti Airtel",
+    "type": "M&A",
+    "sector": "BFSI",
+    "year": 2018,
+    "value_cr": 4706.1,
+    "status": "Closed",
+    "team": [
+      "Arjun Mehta",
+      "Rishi Kapoor",
+      "Neha Jain"
+    ],
+    "files": [
+      "IM_BhartiAirt.pdf",
+      "DCF_Model_BhartiAirt.xlsx",
+      "Mgmt_Presentation_BhartiAirt.pptx",
+      "Valuation_Bridge_BhartiAirt.xlsx",
+      "NDA_BhartiAirt.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 45.5,
+    "source": "mock_generator"
+  },
+  {
+    "id": 17,
+    "name": "Cipla Spin-off",
+    "client": "Cipla",
+    "type": "M&A",
+    "sector": "Fintech",
+    "year": 2021,
+    "value_cr": 1107.7,
+    "status": "Closed",
+    "team": [
+      "Rohan Gupta"
+    ],
+    "files": [
+      "IM_Cipla.pdf",
+      "DCF_Model_Cipla.xlsx",
+      "Mgmt_Presentation_Cipla.pptx",
+      "Valuation_Bridge_Cipla.xlsx"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 16.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 18,
+    "name": "Bharti Airtel Acquisition",
+    "client": "Bharti Airtel",
+    "type": "M&A",
+    "sector": "Consumer Tech",
+    "year": 2018,
+    "value_cr": 10544.2,
+    "status": "In Progress",
+    "team": [
+      "Ananya Roy",
+      "Karan Singh"
+    ],
+    "files": [
+      "IM_BhartiAirt.pdf",
+      "DCF_Model_BhartiAirt.xlsx",
+      "Valuation_Bridge_BhartiAirt.xlsx",
+      "NDA_BhartiAirt.pdf"
+    ],
+    "tags": [
+      "Cross-border",
+      "Strategic"
+    ],
+    "region": "Singapore",
+    "revenue_cr": 103.2,
+    "source": "mock_generator"
+  },
+  {
+    "id": 19,
+    "name": "TCS Growth Equity",
+    "client": "TCS",
+    "type": "PE/VC",
+    "sector": "Other",
+    "year": 2020,
+    "value_cr": 2694.7,
+    "status": "Closed",
+    "team": [
+      "Priya Sharma",
+      "Vikram Patel"
+    ],
+    "files": [
+      "VC_Model_TCS.xlsx",
+      "Investor_Deck_TCS.pptx",
+      "Term_Sheet_TCS.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 63.4,
+    "source": "mock_generator"
+  },
+  {
+    "id": 20,
+    "name": "Oyo Growth Equity",
+    "client": "Oyo",
+    "type": "PE/VC",
+    "sector": "EdTech",
+    "year": 2019,
+    "value_cr": 11746.7,
+    "status": "In Progress",
+    "team": [
+      "Ananya Roy"
+    ],
+    "files": [
+      "VC_Model_Oyo.xlsx",
+      "Investor_Deck_Oyo.pptx",
+      "Term_Sheet_Oyo.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 126.2,
+    "source": "mock_generator"
+  },
+  {
+    "id": 21,
+    "name": "Cipla Merger",
+    "client": "Cipla",
+    "type": "M&A",
+    "sector": "Energy",
+    "year": 2020,
+    "value_cr": 11531.5,
+    "status": "Pipeline",
+    "team": [
+      "Karan Singh",
+      "Vikram Patel"
+    ],
+    "files": [
+      "IM_Cipla.pdf",
+      "Mgmt_Presentation_Cipla.pptx",
+      "Valuation_Bridge_Cipla.xlsx",
+      "NDA_Cipla.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 109.4,
+    "source": "mock_generator"
+  },
+  {
+    "id": 22,
+    "name": "FirstCry Growth Equity",
+    "client": "FirstCry",
+    "type": "PE/VC",
+    "sector": "Infrastructure",
+    "year": 2021,
+    "value_cr": 843.9,
+    "status": "Closed",
+    "team": [
+      "Neha Jain",
+      "Rohan Gupta",
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "CIM_FirstCry.pdf",
+      "Investor_Deck_FirstCry.pptx",
+      "Term_Sheet_FirstCry.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 9.9,
+    "source": "mock_generator"
+  },
+  {
+    "id": 23,
+    "name": "Cred Series D",
+    "client": "Cred",
+    "type": "PE/VC",
+    "sector": "EdTech",
+    "year": 2019,
+    "value_cr": 13945.6,
+    "status": "Closed",
+    "team": [
+      "Arjun Mehta",
+      "Ananya Roy"
+    ],
+    "files": [
+      "CIM_Cred.pdf",
+      "Investor_Deck_Cred.pptx",
+      "Term_Sheet_Cred.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Unicorn"
+    ],
+    "region": "India",
+    "revenue_cr": 217.8,
+    "source": "mock_generator"
+  },
+  {
+    "id": 24,
+    "name": "Bajaj Auto Buyout",
+    "client": "Bajaj Auto",
+    "type": "M&A",
+    "sector": "Infrastructure",
+    "year": 2024,
+    "value_cr": 6232.6,
+    "status": "Closed",
+    "team": [
+      "Neha Jain"
+    ],
+    "files": [
+      "IM_BajajAuto.pdf",
+      "DCF_Model_BajajAuto.xlsx",
+      "Valuation_Bridge_BajajAuto.xlsx",
+      "NDA_BajajAuto.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 76.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 25,
+    "name": "Cipla IPO",
+    "client": "Cipla",
+    "type": "ECM",
+    "sector": "Healthcare",
+    "year": 2024,
+    "value_cr": 11799.7,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "Prospectus_Cipla.pdf",
+      "Anchor_Deck_Cipla.pptx",
+      "Roadshow_Pres_Cipla.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 348.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 26,
+    "name": "FirstCry Series C",
+    "client": "FirstCry",
+    "type": "PE/VC",
+    "sector": "EdTech",
+    "year": 2021,
+    "value_cr": 11832.9,
+    "status": "Closed",
+    "team": [
+      "Arjun Mehta",
+      "Ananya Roy"
+    ],
+    "files": [
+      "CIM_FirstCry.pdf",
+      "VC_Model_FirstCry.xlsx",
+      "Investor_Deck_FirstCry.pptx",
+      "Term_Sheet_FirstCry.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 250.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 27,
+    "name": "PolicyBazaar Merger",
+    "client": "PolicyBazaar",
+    "type": "M&A",
+    "sector": "Infrastructure",
+    "year": 2018,
+    "value_cr": 13912.2,
+    "status": "In Progress",
+    "team": [
+      "Rohan Gupta",
+      "Neha Jain",
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "IM_PolicyBaza.pdf",
+      "DCF_Model_PolicyBaza.xlsx",
+      "Mgmt_Presentation_PolicyBaza.pptx",
+      "NDA_PolicyBaza.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 94.8,
+    "source": "mock_generator"
+  },
+  {
+    "id": 28,
+    "name": "L&T Series C",
+    "client": "L&T",
+    "type": "PE/VC",
+    "sector": "Other",
+    "year": 2018,
+    "value_cr": 1137.1,
+    "status": "Closed",
+    "team": [
+      "Vikram Patel"
+    ],
+    "files": [
+      "CIM_L&T.pdf",
+      "VC_Model_L&T.xlsx",
+      "Term_Sheet_L&T.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 25.1,
+    "source": "mock_generator"
+  },
+  {
+    "id": 29,
+    "name": "Cipla Series D",
+    "client": "Cipla",
+    "type": "PE/VC",
+    "sector": "Infrastructure",
+    "year": 2023,
+    "value_cr": 14591.3,
+    "status": "Closed",
+    "team": [
+      "Rohan Gupta"
+    ],
+    "files": [
+      "CIM_Cipla.pdf",
+      "VC_Model_Cipla.xlsx",
+      "Investor_Deck_Cipla.pptx",
+      "Term_Sheet_Cipla.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Unicorn"
+    ],
+    "region": "India",
+    "revenue_cr": 244.2,
+    "source": "mock_generator"
+  },
+  {
+    "id": 30,
+    "name": "Udaan FPO",
+    "client": "Udaan",
+    "type": "ECM",
+    "sector": "Other",
+    "year": 2024,
+    "value_cr": 9262.9,
+    "status": "Closed",
+    "team": [
+      "Vikram Patel"
+    ],
+    "files": [
+      "IPO_Model_Udaan.xlsx",
+      "Anchor_Deck_Udaan.pptx",
+      "Roadshow_Pres_Udaan.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 189.4,
+    "source": "mock_generator"
+  },
+  {
+    "id": 31,
+    "name": "ITC Buyout",
+    "client": "ITC",
+    "type": "M&A",
+    "sector": "Energy",
+    "year": 2023,
+    "value_cr": 7094.0,
+    "status": "Closed",
+    "team": [
+      "Karan Singh",
+      "Vikram Patel"
+    ],
+    "files": [
+      "IM_ITC.pdf",
+      "DCF_Model_ITC.xlsx",
+      "Valuation_Bridge_ITC.xlsx",
+      "NDA_ITC.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 47.1,
+    "source": "mock_generator"
+  },
+  {
+    "id": 32,
+    "name": "Byjus Rights Issue",
+    "client": "Byjus",
+    "type": "ECM",
+    "sector": "EdTech",
+    "year": 2021,
+    "value_cr": 10185.8,
+    "status": "Pipeline",
+    "team": [
+      "Ananya Roy",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "Prospectus_Byjus.pdf",
+      "IPO_Model_Byjus.xlsx",
+      "Anchor_Deck_Byjus.pptx"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 226.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 33,
+    "name": "PolicyBazaar Series C",
+    "client": "PolicyBazaar",
+    "type": "PE/VC",
+    "sector": "Infrastructure",
+    "year": 2020,
+    "value_cr": 14666.3,
+    "status": "Closed",
+    "team": [
+      "Rohan Gupta"
+    ],
+    "files": [
+      "CIM_PolicyBaza.pdf",
+      "Investor_Deck_PolicyBaza.pptx",
+      "Term_Sheet_PolicyBaza.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Unicorn"
+    ],
+    "region": "India",
+    "revenue_cr": 181.9,
+    "source": "mock_generator"
+  },
+  {
+    "id": 34,
+    "name": "ShareChat $500M Notes",
+    "client": "ShareChat",
+    "type": "DCM",
+    "sector": "Infrastructure",
+    "year": 2018,
+    "value_cr": 2034.2,
+    "status": "In Progress",
+    "team": [
+      "Rishi Kapoor",
+      "Rohan Gupta",
+      "Neha Jain"
+    ],
+    "files": [
+      "Offering_Memo_ShareChat.pdf",
+      "Credit_Model_ShareChat.xlsx",
+      "Rating_Agency_Pres_ShareChat.pptx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 10.8,
+    "source": "mock_generator"
+  },
+  {
+    "id": 35,
+    "name": "HDFC Growth Equity",
+    "client": "HDFC",
+    "type": "PE/VC",
+    "sector": "Other",
+    "year": 2020,
+    "value_cr": 4008.9,
+    "status": "Closed",
+    "team": [
+      "Priya Sharma",
+      "Vikram Patel"
+    ],
+    "files": [
+      "CIM_HDFC.pdf",
+      "VC_Model_HDFC.xlsx",
+      "Term_Sheet_HDFC.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 45.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 36,
+    "name": "Udaan $500M Notes",
+    "client": "Udaan",
+    "type": "DCM",
+    "sector": "Consumer Tech",
+    "year": 2018,
+    "value_cr": 10592.0,
+    "status": "In Progress",
+    "team": [
+      "Karan Singh"
+    ],
+    "files": [
+      "Offering_Memo_Udaan.pdf",
+      "Credit_Model_Udaan.xlsx",
+      "Rating_Agency_Pres_Udaan.pptx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 52.2,
+    "source": "mock_generator"
+  },
+  {
+    "id": 37,
+    "name": "Cred Rights Issue",
+    "client": "Cred",
+    "type": "ECM",
+    "sector": "Energy",
+    "year": 2018,
+    "value_cr": 10847.8,
+    "status": "In Progress",
+    "team": [
+      "Vikram Patel"
+    ],
+    "files": [
+      "Prospectus_Cred.pdf",
+      "IPO_Model_Cred.xlsx",
+      "Anchor_Deck_Cred.pptx",
+      "Roadshow_Pres_Cred.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 249.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 38,
+    "name": "Ola Merger",
+    "client": "Ola",
+    "type": "M&A",
+    "sector": "EdTech",
+    "year": 2020,
+    "value_cr": 1624.1,
+    "status": "Closed",
+    "team": [
+      "Arjun Mehta"
+    ],
+    "files": [
+      "IM_Ola.pdf",
+      "DCF_Model_Ola.xlsx",
+      "Mgmt_Presentation_Ola.pptx",
+      "Valuation_Bridge_Ola.xlsx"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 24.4,
+    "source": "mock_generator"
+  },
+  {
+    "id": 39,
+    "name": "ITC Series C",
+    "client": "ITC",
+    "type": "PE/VC",
+    "sector": "Healthcare",
+    "year": 2018,
+    "value_cr": 5780.8,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor",
+      "Neha Jain"
+    ],
+    "files": [
+      "CIM_ITC.pdf",
+      "VC_Model_ITC.xlsx",
+      "Term_Sheet_ITC.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 136.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 40,
+    "name": "Cipla Acquisition",
+    "client": "Cipla",
+    "type": "M&A",
+    "sector": "BFSI",
+    "year": 2018,
+    "value_cr": 8405.9,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor",
+      "Arjun Mehta",
+      "Neha Jain"
+    ],
+    "files": [
+      "IM_Cipla.pdf",
+      "DCF_Model_Cipla.xlsx",
+      "Mgmt_Presentation_Cipla.pptx",
+      "Valuation_Bridge_Cipla.xlsx",
+      "NDA_Cipla.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 107.4,
+    "source": "mock_generator"
+  },
+  {
+    "id": 41,
+    "name": "Cred $500M Notes",
+    "client": "Cred",
+    "type": "DCM",
+    "sector": "Consumer Tech",
+    "year": 2024,
+    "value_cr": 11605.1,
+    "status": "Closed",
+    "team": [
+      "Ananya Roy",
+      "Vikram Patel"
+    ],
+    "files": [
+      "Offering_Memo_Cred.pdf",
+      "Rating_Agency_Pres_Cred.pptx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 28.8,
+    "source": "mock_generator"
+  },
+  {
+    "id": 42,
+    "name": "Byjus Buyout",
+    "client": "Byjus",
+    "type": "M&A",
+    "sector": "Energy",
+    "year": 2020,
+    "value_cr": 884.3,
+    "status": "Closed",
+    "team": [
+      "Vikram Patel",
+      "Karan Singh"
+    ],
+    "files": [
+      "IM_Byjus.pdf",
+      "DCF_Model_Byjus.xlsx",
+      "Mgmt_Presentation_Byjus.pptx",
+      "Valuation_Bridge_Byjus.xlsx",
+      "NDA_Byjus.pdf"
+    ],
+    "tags": [
+      "Cross-border",
+      "Strategic"
+    ],
+    "region": "UK",
+    "revenue_cr": 8.2,
+    "source": "mock_generator"
+  },
+  {
+    "id": 43,
+    "name": "Meesho Merger",
+    "client": "Meesho",
+    "type": "M&A",
+    "sector": "Consumer Tech",
+    "year": 2021,
+    "value_cr": 7550.1,
+    "status": "Closed",
+    "team": [
+      "Vikram Patel"
+    ],
+    "files": [
+      "DCF_Model_Meesho.xlsx",
+      "Mgmt_Presentation_Meesho.pptx",
+      "Valuation_Bridge_Meesho.xlsx",
+      "NDA_Meesho.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 76.8,
+    "source": "mock_generator"
+  },
+  {
+    "id": 44,
+    "name": "Zomato Acquisition",
+    "client": "Zomato",
+    "type": "M&A",
+    "sector": "Infrastructure",
+    "year": 2023,
+    "value_cr": 11419.6,
+    "status": "Closed",
+    "team": [
+      "Neha Jain"
+    ],
+    "files": [
+      "DCF_Model_Zomato.xlsx",
+      "Mgmt_Presentation_Zomato.pptx",
+      "Valuation_Bridge_Zomato.xlsx",
+      "NDA_Zomato.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 137.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 45,
+    "name": "Paytm Series C",
+    "client": "Paytm",
+    "type": "PE/VC",
+    "sector": "Infrastructure",
+    "year": 2018,
+    "value_cr": 14845.5,
+    "status": "In Progress",
+    "team": [
+      "Neha Jain",
+      "Rohan Gupta"
+    ],
+    "files": [
+      "CIM_Paytm.pdf",
+      "Investor_Deck_Paytm.pptx",
+      "Term_Sheet_Paytm.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Unicorn"
+    ],
+    "region": "India",
+    "revenue_cr": 177.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 46,
+    "name": "Mahindra Growth Equity",
+    "client": "Mahindra",
+    "type": "PE/VC",
+    "sector": "Other",
+    "year": 2022,
+    "value_cr": 12214.2,
+    "status": "Closed",
+    "team": [
+      "Vikram Patel"
+    ],
+    "files": [
+      "CIM_Mahindra.pdf",
+      "VC_Model_Mahindra.xlsx",
+      "Investor_Deck_Mahindra.pptx",
+      "Term_Sheet_Mahindra.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 130.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 47,
+    "name": "Wipro Rights Issue",
+    "client": "Wipro",
+    "type": "ECM",
+    "sector": "Other",
+    "year": 2019,
+    "value_cr": 8164.3,
+    "status": "Pipeline",
+    "team": [
+      "Priya Sharma",
+      "Vikram Patel"
+    ],
+    "files": [
+      "Prospectus_Wipro.pdf",
+      "Anchor_Deck_Wipro.pptx",
+      "Roadshow_Pres_Wipro.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 263.4,
+    "source": "mock_generator"
+  },
+  {
+    "id": 48,
+    "name": "ShareChat Merger",
+    "client": "ShareChat",
+    "type": "M&A",
+    "sector": "BFSI",
+    "year": 2024,
+    "value_cr": 14147.4,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor",
+      "Neha Jain"
+    ],
+    "files": [
+      "IM_ShareChat.pdf",
+      "DCF_Model_ShareChat.xlsx",
+      "Valuation_Bridge_ShareChat.xlsx",
+      "NDA_ShareChat.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 163.1,
+    "source": "mock_generator"
+  },
+  {
+    "id": 49,
+    "name": "Sun Pharma IPO",
+    "client": "Sun Pharma",
+    "type": "ECM",
+    "sector": "Consumer Tech",
+    "year": 2023,
+    "value_cr": 4546.9,
+    "status": "Closed",
+    "team": [
+      "Vikram Patel",
+      "Ananya Roy",
+      "Karan Singh"
+    ],
+    "files": [
+      "Prospectus_SunPharma.pdf",
+      "IPO_Model_SunPharma.xlsx",
+      "Anchor_Deck_SunPharma.pptx"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 103.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 50,
+    "name": "HDFC Buyout",
+    "client": "HDFC",
+    "type": "M&A",
+    "sector": "Consumer Tech",
+    "year": 2019,
+    "value_cr": 2540.7,
+    "status": "Pipeline",
+    "team": [
+      "Vikram Patel"
+    ],
+    "files": [
+      "IM_HDFC.pdf",
+      "DCF_Model_HDFC.xlsx",
+      "Mgmt_Presentation_HDFC.pptx",
+      "NDA_HDFC.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 17.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 51,
+    "name": "ShareChat Rights Issue",
+    "client": "ShareChat",
+    "type": "ECM",
+    "sector": "BFSI",
+    "year": 2020,
+    "value_cr": 5687.1,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "Prospectus_ShareChat.pdf",
+      "IPO_Model_ShareChat.xlsx",
+      "Anchor_Deck_ShareChat.pptx",
+      "Roadshow_Pres_ShareChat.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 133.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 52,
+    "name": "Byjus Series C",
+    "client": "Byjus",
+    "type": "PE/VC",
+    "sector": "BFSI",
+    "year": 2018,
+    "value_cr": 4279.9,
+    "status": "Closed",
+    "team": [
+      "Neha Jain",
+      "Arjun Mehta",
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "CIM_Byjus.pdf",
+      "VC_Model_Byjus.xlsx",
+      "Investor_Deck_Byjus.pptx",
+      "Term_Sheet_Byjus.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 44.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 53,
+    "name": "Bajaj Auto IPO",
+    "client": "Bajaj Auto",
+    "type": "ECM",
+    "sector": "Consumer Tech",
+    "year": 2022,
+    "value_cr": 13505.8,
+    "status": "Closed",
+    "team": [
+      "Ananya Roy",
+      "Vikram Patel"
+    ],
+    "files": [
+      "IPO_Model_BajajAuto.xlsx",
+      "Anchor_Deck_BajajAuto.pptx",
+      "Roadshow_Pres_BajajAuto.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 308.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 54,
+    "name": "Sun Pharma $500M Notes",
+    "client": "Sun Pharma",
+    "type": "DCM",
+    "sector": "Healthcare",
+    "year": 2021,
+    "value_cr": 5233.0,
+    "status": "Closed",
+    "team": [
+      "Neha Jain",
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "Offering_Memo_SunPharma.pdf",
+      "Credit_Model_SunPharma.xlsx",
+      "Rating_Agency_Pres_SunPharma.pptx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 25.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 55,
+    "name": "L&T Acquisition",
+    "client": "L&T",
+    "type": "M&A",
+    "sector": "Infrastructure",
+    "year": 2018,
+    "value_cr": 6888.1,
+    "status": "Closed",
+    "team": [
+      "Rohan Gupta",
+      "Neha Jain",
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "IM_L&T.pdf",
+      "DCF_Model_L&T.xlsx",
+      "Mgmt_Presentation_L&T.pptx",
+      "NDA_L&T.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 103.1,
+    "source": "mock_generator"
+  },
+  {
+    "id": 56,
+    "name": "Sun Pharma Growth Equity",
+    "client": "Sun Pharma",
+    "type": "PE/VC",
+    "sector": "Infrastructure",
+    "year": 2018,
+    "value_cr": 2071.4,
+    "status": "Closed",
+    "team": [
+      "Rohan Gupta"
+    ],
+    "files": [
+      "CIM_SunPharma.pdf",
+      "VC_Model_SunPharma.xlsx",
+      "Investor_Deck_SunPharma.pptx",
+      "Term_Sheet_SunPharma.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Unicorn"
+    ],
+    "region": "India",
+    "revenue_cr": 34.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 57,
+    "name": "Bharti Airtel IPO",
+    "client": "Bharti Airtel",
+    "type": "ECM",
+    "sector": "Fintech",
+    "year": 2024,
+    "value_cr": 2415.9,
+    "status": "Closed",
+    "team": [
+      "Rohan Gupta"
+    ],
+    "files": [
+      "Prospectus_BhartiAirt.pdf",
+      "IPO_Model_BhartiAirt.xlsx",
+      "Anchor_Deck_BhartiAirt.pptx"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 61.8,
+    "source": "mock_generator"
+  },
+  {
+    "id": 58,
+    "name": "Reliance Buyout",
+    "client": "Reliance",
+    "type": "M&A",
+    "sector": "BFSI",
+    "year": 2018,
+    "value_cr": 7868.3,
+    "status": "Closed",
+    "team": [
+      "Neha Jain",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "IM_Reliance.pdf",
+      "DCF_Model_Reliance.xlsx",
+      "Mgmt_Presentation_Reliance.pptx",
+      "Valuation_Bridge_Reliance.xlsx",
+      "NDA_Reliance.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 106.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 59,
+    "name": "Wipro Series D",
+    "client": "Wipro",
+    "type": "PE/VC",
+    "sector": "Other",
+    "year": 2023,
+    "value_cr": 9840.0,
+    "status": "In Progress",
+    "team": [
+      "Priya Sharma",
+      "Vikram Patel"
+    ],
+    "files": [
+      "CIM_Wipro.pdf",
+      "VC_Model_Wipro.xlsx",
+      "Investor_Deck_Wipro.pptx"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 215.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 60,
+    "name": "Cipla Buyout",
+    "client": "Cipla",
+    "type": "M&A",
+    "sector": "BFSI",
+    "year": 2020,
+    "value_cr": 13150.9,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor",
+      "Neha Jain",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "IM_Cipla.pdf",
+      "DCF_Model_Cipla.xlsx",
+      "Mgmt_Presentation_Cipla.pptx",
+      "Valuation_Bridge_Cipla.xlsx",
+      "NDA_Cipla.pdf"
+    ],
+    "tags": [
+      "Cross-border",
+      "Strategic"
+    ],
+    "region": "US",
+    "revenue_cr": 121.8,
+    "source": "mock_generator"
+  },
+  {
+    "id": 61,
+    "name": "Cred $500M Notes",
+    "client": "Cred",
+    "type": "DCM",
+    "sector": "Healthcare",
+    "year": 2024,
+    "value_cr": 4451.2,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor",
+      "Neha Jain"
+    ],
+    "files": [
+      "Offering_Memo_Cred.pdf",
+      "Credit_Model_Cred.xlsx",
+      "Rating_Agency_Pres_Cred.pptx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 24.9,
+    "source": "mock_generator"
+  },
+  {
+    "id": 62,
+    "name": "Byjus Series C",
+    "client": "Byjus",
+    "type": "PE/VC",
+    "sector": "Fintech",
+    "year": 2018,
+    "value_cr": 14578.8,
+    "status": "In Progress",
+    "team": [
+      "Arjun Mehta"
+    ],
+    "files": [
+      "CIM_Byjus.pdf",
+      "VC_Model_Byjus.xlsx",
+      "Investor_Deck_Byjus.pptx",
+      "Term_Sheet_Byjus.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 179.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 63,
+    "name": "Adani Series C",
+    "client": "Adani",
+    "type": "PE/VC",
+    "sector": "EdTech",
+    "year": 2018,
+    "value_cr": 8812.5,
+    "status": "In Progress",
+    "team": [
+      "Ananya Roy",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "CIM_Adani.pdf",
+      "VC_Model_Adani.xlsx",
+      "Investor_Deck_Adani.pptx",
+      "Term_Sheet_Adani.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 93.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 64,
+    "name": "TCS Acquisition",
+    "client": "TCS",
+    "type": "M&A",
+    "sector": "Healthcare",
+    "year": 2019,
+    "value_cr": 3247.2,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor",
+      "Neha Jain"
+    ],
+    "files": [
+      "DCF_Model_TCS.xlsx",
+      "Mgmt_Presentation_TCS.pptx",
+      "Valuation_Bridge_TCS.xlsx",
+      "NDA_TCS.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 37.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 65,
+    "name": "Nykaa Merger",
+    "client": "Nykaa",
+    "type": "M&A",
+    "sector": "Healthcare",
+    "year": 2022,
+    "value_cr": 11693.7,
+    "status": "Closed",
+    "team": [
+      "Neha Jain",
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "IM_Nykaa.pdf",
+      "DCF_Model_Nykaa.xlsx",
+      "Mgmt_Presentation_Nykaa.pptx",
+      "NDA_Nykaa.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 111.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 66,
+    "name": "1MG Acquisition",
+    "client": "1MG",
+    "type": "M&A",
+    "sector": "BFSI",
+    "year": 2024,
+    "value_cr": 8502.3,
+    "status": "Closed",
+    "team": [
+      "Neha Jain",
+      "Rishi Kapoor",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "IM_1MG.pdf",
+      "DCF_Model_1MG.xlsx",
+      "Valuation_Bridge_1MG.xlsx",
+      "NDA_1MG.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 77.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 67,
+    "name": "Meesho Series C",
+    "client": "Meesho",
+    "type": "PE/VC",
+    "sector": "Fintech",
+    "year": 2024,
+    "value_cr": 13215.0,
+    "status": "Closed",
+    "team": [
+      "Priya Sharma",
+      "Rohan Gupta",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "CIM_Meesho.pdf",
+      "VC_Model_Meesho.xlsx",
+      "Investor_Deck_Meesho.pptx",
+      "Term_Sheet_Meesho.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Unicorn"
+    ],
+    "region": "India",
+    "revenue_cr": 236.1,
+    "source": "mock_generator"
+  },
+  {
+    "id": 68,
+    "name": "PolicyBazaar FPO",
+    "client": "PolicyBazaar",
+    "type": "ECM",
+    "sector": "Fintech",
+    "year": 2022,
+    "value_cr": 10333.7,
+    "status": "Closed",
+    "team": [
+      "Priya Sharma",
+      "Rohan Gupta"
+    ],
+    "files": [
+      "Prospectus_PolicyBaza.pdf",
+      "IPO_Model_PolicyBaza.xlsx",
+      "Anchor_Deck_PolicyBaza.pptx"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 222.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 69,
+    "name": "Bajaj Auto Growth Equity",
+    "client": "Bajaj Auto",
+    "type": "PE/VC",
+    "sector": "Fintech",
+    "year": 2024,
+    "value_cr": 4991.6,
+    "status": "Closed",
+    "team": [
+      "Rohan Gupta",
+      "Priya Sharma"
+    ],
+    "files": [
+      "VC_Model_BajajAuto.xlsx",
+      "Investor_Deck_BajajAuto.pptx",
+      "Term_Sheet_BajajAuto.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 115.1,
+    "source": "mock_generator"
+  },
+  {
+    "id": 70,
+    "name": "Cred FPO",
+    "client": "Cred",
+    "type": "ECM",
+    "sector": "Energy",
+    "year": 2023,
+    "value_cr": 1292.0,
+    "status": "Closed",
+    "team": [
+      "Karan Singh",
+      "Vikram Patel"
+    ],
+    "files": [
+      "IPO_Model_Cred.xlsx",
+      "Anchor_Deck_Cred.pptx",
+      "Roadshow_Pres_Cred.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 27.5,
+    "source": "mock_generator"
+  },
+  {
+    "id": 71,
+    "name": "HDFC Merger",
+    "client": "HDFC",
+    "type": "M&A",
+    "sector": "Fintech",
+    "year": 2021,
+    "value_cr": 14367.5,
+    "status": "Closed",
+    "team": [
+      "Rohan Gupta",
+      "Priya Sharma"
+    ],
+    "files": [
+      "IM_HDFC.pdf",
+      "Mgmt_Presentation_HDFC.pptx",
+      "Valuation_Bridge_HDFC.xlsx",
+      "NDA_HDFC.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 188.5,
+    "source": "mock_generator"
+  },
+  {
+    "id": 72,
+    "name": "Tata Motors Merger",
+    "client": "Tata Motors",
+    "type": "M&A",
+    "sector": "Energy",
+    "year": 2023,
+    "value_cr": 13454.4,
+    "status": "Closed",
+    "team": [
+      "Karan Singh",
+      "Vikram Patel"
+    ],
+    "files": [
+      "IM_TataMotors.pdf",
+      "DCF_Model_TataMotors.xlsx",
+      "Valuation_Bridge_TataMotors.xlsx",
+      "NDA_TataMotors.pdf"
+    ],
+    "tags": [
+      "Cross-border",
+      "Strategic"
+    ],
+    "region": "US",
+    "revenue_cr": 163.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 73,
+    "name": "Infosys IPO",
+    "client": "Infosys",
+    "type": "ECM",
+    "sector": "EdTech",
+    "year": 2022,
+    "value_cr": 640.4,
+    "status": "Closed",
+    "team": [
+      "Arjun Mehta",
+      "Ananya Roy"
+    ],
+    "files": [
+      "Prospectus_Infosys.pdf",
+      "Anchor_Deck_Infosys.pptx",
+      "Roadshow_Pres_Infosys.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 21.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 74,
+    "name": "Bajaj Auto $500M Notes",
+    "client": "Bajaj Auto",
+    "type": "DCM",
+    "sector": "EdTech",
+    "year": 2020,
+    "value_cr": 12391.7,
+    "status": "Closed",
+    "team": [
+      "Ananya Roy",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "Offering_Memo_BajajAuto.pdf",
+      "Credit_Model_BajajAuto.xlsx",
+      "Rating_Agency_Pres_BajajAuto.pptx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 98.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 75,
+    "name": "Byjus Merger",
+    "client": "Byjus",
+    "type": "M&A",
+    "sector": "Energy",
+    "year": 2024,
+    "value_cr": 10006.6,
+    "status": "Pipeline",
+    "team": [
+      "Vikram Patel",
+      "Karan Singh"
+    ],
+    "files": [
+      "IM_Byjus.pdf",
+      "DCF_Model_Byjus.xlsx",
+      "Mgmt_Presentation_Byjus.pptx",
+      "Valuation_Bridge_Byjus.xlsx",
+      "NDA_Byjus.pdf"
+    ],
+    "tags": [
+      "Cross-border",
+      "Strategic"
+    ],
+    "region": "Singapore",
+    "revenue_cr": 84.1,
+    "source": "mock_generator"
+  },
+  {
+    "id": 76,
+    "name": "Curefit Series D",
+    "client": "Curefit",
+    "type": "PE/VC",
+    "sector": "Healthcare",
+    "year": 2022,
+    "value_cr": 14908.1,
+    "status": "In Progress",
+    "team": [
+      "Rishi Kapoor",
+      "Neha Jain"
+    ],
+    "files": [
+      "CIM_Curefit.pdf",
+      "VC_Model_Curefit.xlsx",
+      "Investor_Deck_Curefit.pptx",
+      "Term_Sheet_Curefit.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 304.9,
+    "source": "mock_generator"
+  },
+  {
+    "id": 77,
+    "name": "Mahindra Rights Issue",
+    "client": "Mahindra",
+    "type": "ECM",
+    "sector": "Infrastructure",
+    "year": 2023,
+    "value_cr": 9743.2,
+    "status": "Closed",
+    "team": [
+      "Neha Jain",
+      "Rohan Gupta",
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "Prospectus_Mahindra.pdf",
+      "IPO_Model_Mahindra.xlsx",
+      "Anchor_Deck_Mahindra.pptx",
+      "Roadshow_Pres_Mahindra.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 304.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 78,
+    "name": "Bajaj Auto Series D",
+    "client": "Bajaj Auto",
+    "type": "PE/VC",
+    "sector": "Consumer Tech",
+    "year": 2022,
+    "value_cr": 4792.8,
+    "status": "Closed",
+    "team": [
+      "Karan Singh"
+    ],
+    "files": [
+      "CIM_BajajAuto.pdf",
+      "VC_Model_BajajAuto.xlsx",
+      "Investor_Deck_BajajAuto.pptx",
+      "Term_Sheet_BajajAuto.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 52.4,
+    "source": "mock_generator"
+  },
+  {
+    "id": 79,
+    "name": "Groww Growth Equity",
+    "client": "Groww",
+    "type": "PE/VC",
+    "sector": "Consumer Tech",
+    "year": 2018,
+    "value_cr": 9197.0,
+    "status": "In Progress",
+    "team": [
+      "Ananya Roy",
+      "Karan Singh"
+    ],
+    "files": [
+      "CIM_Groww.pdf",
+      "VC_Model_Groww.xlsx",
+      "Investor_Deck_Groww.pptx"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 118.1,
+    "source": "mock_generator"
+  },
+  {
+    "id": 80,
+    "name": "Swiggy IPO",
+    "client": "Swiggy",
+    "type": "ECM",
+    "sector": "BFSI",
+    "year": 2022,
+    "value_cr": 8375.9,
+    "status": "Closed",
+    "team": [
+      "Neha Jain"
+    ],
+    "files": [
+      "Prospectus_Swiggy.pdf",
+      "IPO_Model_Swiggy.xlsx",
+      "Anchor_Deck_Swiggy.pptx",
+      "Roadshow_Pres_Swiggy.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 280.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 81,
+    "name": "PharmEasy $500M Notes",
+    "client": "PharmEasy",
+    "type": "DCM",
+    "sector": "EdTech",
+    "year": 2021,
+    "value_cr": 4954.1,
+    "status": "Pipeline",
+    "team": [
+      "Arjun Mehta",
+      "Ananya Roy"
+    ],
+    "files": [
+      "Offering_Memo_PharmEasy.pdf",
+      "Credit_Model_PharmEasy.xlsx",
+      "Rating_Agency_Pres_PharmEasy.pptx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 26.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 82,
+    "name": "Zerodha Spin-off",
+    "client": "Zerodha",
+    "type": "M&A",
+    "sector": "BFSI",
+    "year": 2020,
+    "value_cr": 11679.3,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "IM_Zerodha.pdf",
+      "DCF_Model_Zerodha.xlsx",
+      "Mgmt_Presentation_Zerodha.pptx",
+      "NDA_Zerodha.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 171.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 83,
+    "name": "Zerodha Series D",
+    "client": "Zerodha",
+    "type": "PE/VC",
+    "sector": "EdTech",
+    "year": 2022,
+    "value_cr": 5516.2,
+    "status": "Closed",
+    "team": [
+      "Ananya Roy",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "CIM_Zerodha.pdf",
+      "VC_Model_Zerodha.xlsx",
+      "Investor_Deck_Zerodha.pptx",
+      "Term_Sheet_Zerodha.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 114.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 84,
+    "name": "Oyo Growth Equity",
+    "client": "Oyo",
+    "type": "PE/VC",
+    "sector": "Healthcare",
+    "year": 2023,
+    "value_cr": 2156.4,
+    "status": "Closed",
+    "team": [
+      "Neha Jain"
+    ],
+    "files": [
+      "CIM_Oyo.pdf",
+      "VC_Model_Oyo.xlsx",
+      "Investor_Deck_Oyo.pptx",
+      "Term_Sheet_Oyo.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 45.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 85,
+    "name": "Zomato Series C",
+    "client": "Zomato",
+    "type": "PE/VC",
+    "sector": "Other",
+    "year": 2022,
+    "value_cr": 12298.1,
+    "status": "Closed",
+    "team": [
+      "Vikram Patel",
+      "Priya Sharma"
+    ],
+    "files": [
+      "CIM_Zomato.pdf",
+      "VC_Model_Zomato.xlsx",
+      "Investor_Deck_Zomato.pptx"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Unicorn"
+    ],
+    "region": "India",
+    "revenue_cr": 182.5,
+    "source": "mock_generator"
+  },
+  {
+    "id": 86,
+    "name": "TCS Rights Issue",
+    "client": "TCS",
+    "type": "ECM",
+    "sector": "BFSI",
+    "year": 2021,
+    "value_cr": 5140.4,
+    "status": "Closed",
+    "team": [
+      "Neha Jain",
+      "Rishi Kapoor",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "Prospectus_TCS.pdf",
+      "IPO_Model_TCS.xlsx",
+      "Roadshow_Pres_TCS.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Oversubscribed"
+    ],
+    "region": "India",
+    "revenue_cr": 160.4,
+    "source": "mock_generator"
+  },
+  {
+    "id": 87,
+    "name": "Maruti Series D",
+    "client": "Maruti",
+    "type": "PE/VC",
+    "sector": "Consumer Tech",
+    "year": 2021,
+    "value_cr": 11115.5,
+    "status": "Closed",
+    "team": [
+      "Karan Singh",
+      "Vikram Patel"
+    ],
+    "files": [
+      "CIM_Maruti.pdf",
+      "VC_Model_Maruti.xlsx",
+      "Investor_Deck_Maruti.pptx",
+      "Term_Sheet_Maruti.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 258.5,
+    "source": "mock_generator"
+  },
+  {
+    "id": 88,
+    "name": "Upstox Series D",
+    "client": "Upstox",
+    "type": "PE/VC",
+    "sector": "Energy",
+    "year": 2024,
+    "value_cr": 10523.7,
+    "status": "Closed",
+    "team": [
+      "Karan Singh",
+      "Vikram Patel"
+    ],
+    "files": [
+      "CIM_Upstox.pdf",
+      "VC_Model_Upstox.xlsx",
+      "Investor_Deck_Upstox.pptx",
+      "Term_Sheet_Upstox.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Unicorn"
+    ],
+    "region": "India",
+    "revenue_cr": 257.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 89,
+    "name": "Zomato $500M Notes",
+    "client": "Zomato",
+    "type": "DCM",
+    "sector": "Healthcare",
+    "year": 2022,
+    "value_cr": 4217.3,
+    "status": "Closed",
+    "team": [
+      "Neha Jain"
+    ],
+    "files": [
+      "Offering_Memo_Zomato.pdf",
+      "Credit_Model_Zomato.xlsx",
+      "Rating_Agency_Pres_Zomato.pptx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 30.8,
+    "source": "mock_generator"
+  },
+  {
+    "id": 90,
+    "name": "Byjus Spin-off",
+    "client": "Byjus",
+    "type": "M&A",
+    "sector": "BFSI",
+    "year": 2019,
+    "value_cr": 2641.3,
+    "status": "Closed",
+    "team": [
+      "Arjun Mehta"
+    ],
+    "files": [
+      "IM_Byjus.pdf",
+      "DCF_Model_Byjus.xlsx",
+      "Mgmt_Presentation_Byjus.pptx",
+      "Valuation_Bridge_Byjus.xlsx",
+      "NDA_Byjus.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 17.1,
+    "source": "mock_generator"
+  },
+  {
+    "id": 91,
+    "name": "Swiggy Series C",
+    "client": "Swiggy",
+    "type": "PE/VC",
+    "sector": "EdTech",
+    "year": 2019,
+    "value_cr": 13000.7,
+    "status": "Closed",
+    "team": [
+      "Arjun Mehta",
+      "Ananya Roy"
+    ],
+    "files": [
+      "CIM_Swiggy.pdf",
+      "VC_Model_Swiggy.xlsx",
+      "Investor_Deck_Swiggy.pptx",
+      "Term_Sheet_Swiggy.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Unicorn"
+    ],
+    "region": "India",
+    "revenue_cr": 310.2,
+    "source": "mock_generator"
+  },
+  {
+    "id": 92,
+    "name": "Infosys $500M Notes",
+    "client": "Infosys",
+    "type": "DCM",
+    "sector": "Consumer Tech",
+    "year": 2024,
+    "value_cr": 13099.1,
+    "status": "Pipeline",
+    "team": [
+      "Karan Singh"
+    ],
+    "files": [
+      "Offering_Memo_Infosys.pdf",
+      "Rating_Agency_Pres_Infosys.pptx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 62.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 93,
+    "name": "Maruti Rights Issue",
+    "client": "Maruti",
+    "type": "ECM",
+    "sector": "EdTech",
+    "year": 2020,
+    "value_cr": 5520.0,
+    "status": "Closed",
+    "team": [
+      "Ananya Roy",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "IPO_Model_Maruti.xlsx",
+      "Anchor_Deck_Maruti.pptx",
+      "Roadshow_Pres_Maruti.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Oversubscribed"
+    ],
+    "region": "India",
+    "revenue_cr": 138.2,
+    "source": "mock_generator"
+  },
+  {
+    "id": 94,
+    "name": "HDFC Merger",
+    "client": "HDFC",
+    "type": "M&A",
+    "sector": "Consumer Tech",
+    "year": 2021,
+    "value_cr": 5771.7,
+    "status": "Pipeline",
+    "team": [
+      "Vikram Patel"
+    ],
+    "files": [
+      "IM_HDFC.pdf",
+      "DCF_Model_HDFC.xlsx",
+      "Mgmt_Presentation_HDFC.pptx",
+      "NDA_HDFC.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 52.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 95,
+    "name": "Cred $500M Notes",
+    "client": "Cred",
+    "type": "DCM",
+    "sector": "EdTech",
+    "year": 2021,
+    "value_cr": 8259.1,
+    "status": "Pipeline",
+    "team": [
+      "Arjun Mehta"
+    ],
+    "files": [
+      "Offering_Memo_Cred.pdf",
+      "Credit_Model_Cred.xlsx",
+      "Rating_Agency_Pres_Cred.pptx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 64.9,
+    "source": "mock_generator"
+  },
+  {
+    "id": 96,
+    "name": "L&T $500M Notes",
+    "client": "L&T",
+    "type": "DCM",
+    "sector": "EdTech",
+    "year": 2019,
+    "value_cr": 10762.1,
+    "status": "Closed",
+    "team": [
+      "Ananya Roy",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "Offering_Memo_L&T.pdf",
+      "Credit_Model_L&T.xlsx",
+      "Rating_Agency_Pres_L&T.pptx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 80.9,
+    "source": "mock_generator"
+  },
+  {
+    "id": 97,
+    "name": "Reliance Buyout",
+    "client": "Reliance",
+    "type": "M&A",
+    "sector": "Other",
+    "year": 2020,
+    "value_cr": 3876.2,
+    "status": "Closed",
+    "team": [
+      "Priya Sharma",
+      "Vikram Patel"
+    ],
+    "files": [
+      "IM_Reliance.pdf",
+      "DCF_Model_Reliance.xlsx",
+      "Mgmt_Presentation_Reliance.pptx",
+      "Valuation_Bridge_Reliance.xlsx",
+      "NDA_Reliance.pdf"
+    ],
+    "tags": [
+      "Cross-border",
+      "Strategic"
+    ],
+    "region": "Singapore",
+    "revenue_cr": 48.1,
+    "source": "mock_generator"
+  },
+  {
+    "id": 98,
+    "name": "TCS Merger",
+    "client": "TCS",
+    "type": "M&A",
+    "sector": "Energy",
+    "year": 2018,
+    "value_cr": 10953.1,
+    "status": "Closed",
+    "team": [
+      "Karan Singh",
+      "Vikram Patel"
+    ],
+    "files": [
+      "DCF_Model_TCS.xlsx",
+      "Mgmt_Presentation_TCS.pptx",
+      "Valuation_Bridge_TCS.xlsx",
+      "NDA_TCS.pdf"
+    ],
+    "tags": [
+      "Cross-border",
+      "Strategic"
+    ],
+    "region": "US",
+    "revenue_cr": 133.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 99,
+    "name": "ITC FPO",
+    "client": "ITC",
+    "type": "ECM",
+    "sector": "Consumer Tech",
+    "year": 2022,
+    "value_cr": 8417.3,
+    "status": "Closed",
+    "team": [
+      "Vikram Patel",
+      "Karan Singh",
+      "Ananya Roy"
+    ],
+    "files": [
+      "Prospectus_ITC.pdf",
+      "IPO_Model_ITC.xlsx",
+      "Anchor_Deck_ITC.pptx"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Oversubscribed"
+    ],
+    "region": "India",
+    "revenue_cr": 294.2,
+    "source": "mock_generator"
+  },
+  {
+    "id": 100,
+    "name": "Maruti IPO",
+    "client": "Maruti",
+    "type": "ECM",
+    "sector": "Infrastructure",
+    "year": 2019,
+    "value_cr": 7144.2,
+    "status": "Closed",
+    "team": [
+      "Rohan Gupta"
+    ],
+    "files": [
+      "IPO_Model_Maruti.xlsx",
+      "Anchor_Deck_Maruti.pptx",
+      "Roadshow_Pres_Maruti.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Oversubscribed"
+    ],
+    "region": "India",
+    "revenue_cr": 206.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 101,
+    "name": "Bharti Airtel Buyout",
+    "client": "Bharti Airtel",
+    "type": "M&A",
+    "sector": "Healthcare",
+    "year": 2021,
+    "value_cr": 10162.9,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "IM_BhartiAirt.pdf",
+      "DCF_Model_BhartiAirt.xlsx",
+      "Mgmt_Presentation_BhartiAirt.pptx",
+      "NDA_BhartiAirt.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 114.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 102,
+    "name": "HDFC Spin-off",
+    "client": "HDFC",
+    "type": "M&A",
+    "sector": "Healthcare",
+    "year": 2019,
+    "value_cr": 14708.7,
+    "status": "In Progress",
+    "team": [
+      "Rishi Kapoor",
+      "Neha Jain"
+    ],
+    "files": [
+      "IM_HDFC.pdf",
+      "DCF_Model_HDFC.xlsx",
+      "Mgmt_Presentation_HDFC.pptx",
+      "NDA_HDFC.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 199.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 103,
+    "name": "Cred Series C",
+    "client": "Cred",
+    "type": "PE/VC",
+    "sector": "BFSI",
+    "year": 2020,
+    "value_cr": 3345.9,
+    "status": "Pipeline",
+    "team": [
+      "Rishi Kapoor",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "CIM_Cred.pdf",
+      "VC_Model_Cred.xlsx",
+      "Investor_Deck_Cred.pptx",
+      "Term_Sheet_Cred.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 63.2,
+    "source": "mock_generator"
+  },
+  {
+    "id": 104,
+    "name": "Adani Acquisition",
+    "client": "Adani",
+    "type": "M&A",
+    "sector": "Consumer Tech",
+    "year": 2021,
+    "value_cr": 13484.5,
+    "status": "Closed",
+    "team": [
+      "Karan Singh",
+      "Ananya Roy",
+      "Vikram Patel"
+    ],
+    "files": [
+      "IM_Adani.pdf",
+      "DCF_Model_Adani.xlsx",
+      "Mgmt_Presentation_Adani.pptx",
+      "NDA_Adani.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 175.5,
+    "source": "mock_generator"
+  },
+  {
+    "id": 105,
+    "name": "Delhivery Series D",
+    "client": "Delhivery",
+    "type": "PE/VC",
+    "sector": "Fintech",
+    "year": 2024,
+    "value_cr": 2718.7,
+    "status": "Closed",
+    "team": [
+      "Rohan Gupta",
+      "Priya Sharma"
+    ],
+    "files": [
+      "CIM_Delhivery.pdf",
+      "VC_Model_Delhivery.xlsx",
+      "Investor_Deck_Delhivery.pptx",
+      "Term_Sheet_Delhivery.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 33.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 106,
+    "name": "Ola Merger",
+    "client": "Ola",
+    "type": "M&A",
+    "sector": "BFSI",
+    "year": 2023,
+    "value_cr": 14114.3,
+    "status": "Closed",
+    "team": [
+      "Neha Jain",
+      "Rishi Kapoor",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "IM_Ola.pdf",
+      "DCF_Model_Ola.xlsx",
+      "Mgmt_Presentation_Ola.pptx",
+      "Valuation_Bridge_Ola.xlsx",
+      "NDA_Ola.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 119.2,
+    "source": "mock_generator"
+  },
+  {
+    "id": 107,
+    "name": "Paytm IPO",
+    "client": "Paytm",
+    "type": "ECM",
+    "sector": "Fintech",
+    "year": 2022,
+    "value_cr": 655.2,
+    "status": "Closed",
+    "team": [
+      "Priya Sharma"
+    ],
+    "files": [
+      "Prospectus_Paytm.pdf",
+      "IPO_Model_Paytm.xlsx",
+      "Anchor_Deck_Paytm.pptx"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Oversubscribed"
+    ],
+    "region": "India",
+    "revenue_cr": 17.9,
+    "source": "mock_generator"
+  },
+  {
+    "id": 108,
+    "name": "Infosys FPO",
+    "client": "Infosys",
+    "type": "ECM",
+    "sector": "Infrastructure",
+    "year": 2022,
+    "value_cr": 3162.6,
+    "status": "Closed",
+    "team": [
+      "Neha Jain",
+      "Rohan Gupta"
+    ],
+    "files": [
+      "IPO_Model_Infosys.xlsx",
+      "Anchor_Deck_Infosys.pptx",
+      "Roadshow_Pres_Infosys.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Oversubscribed"
+    ],
+    "region": "India",
+    "revenue_cr": 64.2,
+    "source": "mock_generator"
+  },
+  {
+    "id": 109,
+    "name": "Razorpay $500M Notes",
+    "client": "Razorpay",
+    "type": "DCM",
+    "sector": "Fintech",
+    "year": 2019,
+    "value_cr": 2025.6,
+    "status": "Closed",
+    "team": [
+      "Priya Sharma",
+      "Arjun Mehta",
+      "Rohan Gupta"
+    ],
+    "files": [
+      "Credit_Model_Razorpay.xlsx",
+      "Rating_Agency_Pres_Razorpay.pptx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 7.2,
+    "source": "mock_generator"
+  },
+  {
+    "id": 110,
+    "name": "Udaan $500M Notes",
+    "client": "Udaan",
+    "type": "DCM",
+    "sector": "EdTech",
+    "year": 2018,
+    "value_cr": 9496.0,
+    "status": "Closed",
+    "team": [
+      "Arjun Mehta"
+    ],
+    "files": [
+      "Offering_Memo_Udaan.pdf",
+      "Rating_Agency_Pres_Udaan.pptx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 73.9,
+    "source": "mock_generator"
+  },
+  {
+    "id": 111,
+    "name": "Zomato FPO",
+    "client": "Zomato",
+    "type": "ECM",
+    "sector": "Fintech",
+    "year": 2018,
+    "value_cr": 11446.0,
+    "status": "Closed",
+    "team": [
+      "Priya Sharma",
+      "Arjun Mehta",
+      "Rohan Gupta"
+    ],
+    "files": [
+      "Prospectus_Zomato.pdf",
+      "IPO_Model_Zomato.xlsx",
+      "Anchor_Deck_Zomato.pptx"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Oversubscribed"
+    ],
+    "region": "India",
+    "revenue_cr": 234.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 112,
+    "name": "Delhivery Spin-off",
+    "client": "Delhivery",
+    "type": "M&A",
+    "sector": "Other",
+    "year": 2024,
+    "value_cr": 10577.4,
+    "status": "Pipeline",
+    "team": [
+      "Vikram Patel"
+    ],
+    "files": [
+      "IM_Delhivery.pdf",
+      "DCF_Model_Delhivery.xlsx",
+      "Mgmt_Presentation_Delhivery.pptx",
+      "Valuation_Bridge_Delhivery.xlsx",
+      "NDA_Delhivery.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 61.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 113,
+    "name": "Zerodha Spin-off",
+    "client": "Zerodha",
+    "type": "M&A",
+    "sector": "Infrastructure",
+    "year": 2018,
+    "value_cr": 5398.4,
+    "status": "In Progress",
+    "team": [
+      "Rohan Gupta",
+      "Rishi Kapoor",
+      "Neha Jain"
+    ],
+    "files": [
+      "IM_Zerodha.pdf",
+      "DCF_Model_Zerodha.xlsx",
+      "Mgmt_Presentation_Zerodha.pptx",
+      "NDA_Zerodha.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 53.5,
+    "source": "mock_generator"
+  },
+  {
+    "id": 114,
+    "name": "HDFC FPO",
+    "client": "HDFC",
+    "type": "ECM",
+    "sector": "Consumer Tech",
+    "year": 2019,
+    "value_cr": 2806.6,
+    "status": "In Progress",
+    "team": [
+      "Vikram Patel"
+    ],
+    "files": [
+      "Prospectus_HDFC.pdf",
+      "Anchor_Deck_HDFC.pptx",
+      "Roadshow_Pres_HDFC.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 59.4,
+    "source": "mock_generator"
+  },
+  {
+    "id": 115,
+    "name": "PharmEasy Rights Issue",
+    "client": "PharmEasy",
+    "type": "ECM",
+    "sector": "Infrastructure",
+    "year": 2018,
+    "value_cr": 14006.5,
+    "status": "In Progress",
+    "team": [
+      "Rohan Gupta",
+      "Neha Jain"
+    ],
+    "files": [
+      "Prospectus_PharmEasy.pdf",
+      "IPO_Model_PharmEasy.xlsx",
+      "Anchor_Deck_PharmEasy.pptx",
+      "Roadshow_Pres_PharmEasy.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Oversubscribed"
+    ],
+    "region": "India",
+    "revenue_cr": 295.1,
+    "source": "mock_generator"
+  },
+  {
+    "id": 116,
+    "name": "Zomato Series D",
+    "client": "Zomato",
+    "type": "PE/VC",
+    "sector": "EdTech",
+    "year": 2018,
+    "value_cr": 912.9,
+    "status": "Closed",
+    "team": [
+      "Arjun Mehta"
+    ],
+    "files": [
+      "CIM_Zomato.pdf",
+      "VC_Model_Zomato.xlsx",
+      "Investor_Deck_Zomato.pptx"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Unicorn"
+    ],
+    "region": "India",
+    "revenue_cr": 15.9,
+    "source": "mock_generator"
+  },
+  {
+    "id": 117,
+    "name": "Zomato Acquisition",
+    "client": "Zomato",
+    "type": "M&A",
+    "sector": "Other",
+    "year": 2020,
+    "value_cr": 5197.2,
+    "status": "In Progress",
+    "team": [
+      "Priya Sharma",
+      "Vikram Patel"
+    ],
+    "files": [
+      "IM_Zomato.pdf",
+      "DCF_Model_Zomato.xlsx",
+      "Mgmt_Presentation_Zomato.pptx",
+      "Valuation_Bridge_Zomato.xlsx",
+      "NDA_Zomato.pdf"
+    ],
+    "tags": [
+      "Cross-border",
+      "Strategic"
+    ],
+    "region": "Singapore",
+    "revenue_cr": 48.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 118,
+    "name": "Mahindra Spin-off",
+    "client": "Mahindra",
+    "type": "M&A",
+    "sector": "Other",
+    "year": 2022,
+    "value_cr": 2074.3,
+    "status": "Closed",
+    "team": [
+      "Priya Sharma",
+      "Vikram Patel"
+    ],
+    "files": [
+      "IM_Mahindra.pdf",
+      "DCF_Model_Mahindra.xlsx",
+      "Mgmt_Presentation_Mahindra.pptx",
+      "Valuation_Bridge_Mahindra.xlsx",
+      "NDA_Mahindra.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 22.4,
+    "source": "mock_generator"
+  },
+  {
+    "id": 119,
+    "name": "Unacademy IPO",
+    "client": "Unacademy",
+    "type": "ECM",
+    "sector": "Infrastructure",
+    "year": 2024,
+    "value_cr": 7825.5,
+    "status": "Closed",
+    "team": [
+      "Neha Jain",
+      "Rohan Gupta"
+    ],
+    "files": [
+      "Prospectus_Unacademy.pdf",
+      "IPO_Model_Unacademy.xlsx",
+      "Anchor_Deck_Unacademy.pptx"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Oversubscribed"
+    ],
+    "region": "India",
+    "revenue_cr": 251.1,
+    "source": "mock_generator"
+  },
+  {
+    "id": 120,
+    "name": "ITC FPO",
+    "client": "ITC",
+    "type": "ECM",
+    "sector": "Energy",
+    "year": 2021,
+    "value_cr": 10889.1,
+    "status": "In Progress",
+    "team": [
+      "Karan Singh",
+      "Vikram Patel"
+    ],
+    "files": [
+      "Prospectus_ITC.pdf",
+      "IPO_Model_ITC.xlsx",
+      "Anchor_Deck_ITC.pptx",
+      "Roadshow_Pres_ITC.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 380.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 121,
+    "name": "Pine Labs Spin-off",
+    "client": "Pine Labs",
+    "type": "M&A",
+    "sector": "Consumer Tech",
+    "year": 2019,
+    "value_cr": 3707.1,
+    "status": "Closed",
+    "team": [
+      "Karan Singh",
+      "Vikram Patel"
+    ],
+    "files": [
+      "IM_PineLabs.pdf",
+      "Mgmt_Presentation_PineLabs.pptx",
+      "Valuation_Bridge_PineLabs.xlsx",
+      "NDA_PineLabs.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 29.9,
+    "source": "mock_generator"
+  },
+  {
+    "id": 122,
+    "name": "PharmEasy Series C",
+    "client": "PharmEasy",
+    "type": "PE/VC",
+    "sector": "Fintech",
+    "year": 2022,
+    "value_cr": 5447.4,
+    "status": "Closed",
+    "team": [
+      "Arjun Mehta",
+      "Rohan Gupta",
+      "Priya Sharma"
+    ],
+    "files": [
+      "CIM_PharmEasy.pdf",
+      "VC_Model_PharmEasy.xlsx",
+      "Investor_Deck_PharmEasy.pptx",
+      "Term_Sheet_PharmEasy.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Unicorn"
+    ],
+    "region": "India",
+    "revenue_cr": 127.9,
+    "source": "mock_generator"
+  },
+  {
+    "id": 123,
+    "name": "Sun Pharma $500M Notes",
+    "client": "Sun Pharma",
+    "type": "DCM",
+    "sector": "EdTech",
+    "year": 2023,
+    "value_cr": 5882.6,
+    "status": "In Progress",
+    "team": [
+      "Ananya Roy",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "Offering_Memo_SunPharma.pdf",
+      "Rating_Agency_Pres_SunPharma.pptx"
+    ],
+    "tags": [
+      "Green Bond",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 15.1,
+    "source": "mock_generator"
+  },
+  {
+    "id": 124,
+    "name": "Razorpay $500M Notes",
+    "client": "Razorpay",
+    "type": "DCM",
+    "sector": "Infrastructure",
+    "year": 2018,
+    "value_cr": 13501.0,
+    "status": "Closed",
+    "team": [
+      "Neha Jain"
+    ],
+    "files": [
+      "Offering_Memo_Razorpay.pdf",
+      "Credit_Model_Razorpay.xlsx",
+      "Rating_Agency_Pres_Razorpay.pptx"
+    ],
+    "tags": [
+      "Green Bond",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 58.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 125,
+    "name": "L&T Acquisition",
+    "client": "L&T",
+    "type": "M&A",
+    "sector": "Fintech",
+    "year": 2021,
+    "value_cr": 3872.6,
+    "status": "Closed",
+    "team": [
+      "Priya Sharma"
+    ],
+    "files": [
+      "IM_L&T.pdf",
+      "DCF_Model_L&T.xlsx",
+      "Mgmt_Presentation_L&T.pptx",
+      "Valuation_Bridge_L&T.xlsx",
+      "NDA_L&T.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 20.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 126,
+    "name": "Curefit Buyout",
+    "client": "Curefit",
+    "type": "M&A",
+    "sector": "Other",
+    "year": 2023,
+    "value_cr": 5047.0,
+    "status": "Closed",
+    "team": [
+      "Vikram Patel",
+      "Priya Sharma"
+    ],
+    "files": [
+      "IM_Curefit.pdf",
+      "DCF_Model_Curefit.xlsx",
+      "Mgmt_Presentation_Curefit.pptx",
+      "NDA_Curefit.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 36.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 127,
+    "name": "ITC Spin-off",
+    "client": "ITC",
+    "type": "M&A",
+    "sector": "Other",
+    "year": 2018,
+    "value_cr": 7836.5,
+    "status": "Closed",
+    "team": [
+      "Priya Sharma",
+      "Vikram Patel"
+    ],
+    "files": [
+      "IM_ITC.pdf",
+      "DCF_Model_ITC.xlsx",
+      "Valuation_Bridge_ITC.xlsx",
+      "NDA_ITC.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 55.1,
+    "source": "mock_generator"
+  },
+  {
+    "id": 128,
+    "name": "Groww Series D",
+    "client": "Groww",
+    "type": "PE/VC",
+    "sector": "Infrastructure",
+    "year": 2023,
+    "value_cr": 5412.1,
+    "status": "Closed",
+    "team": [
+      "Neha Jain"
+    ],
+    "files": [
+      "CIM_Groww.pdf",
+      "VC_Model_Groww.xlsx",
+      "Term_Sheet_Groww.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Unicorn"
+    ],
+    "region": "India",
+    "revenue_cr": 71.2,
+    "source": "mock_generator"
+  },
+  {
+    "id": 129,
+    "name": "PolicyBazaar Series C",
+    "client": "PolicyBazaar",
+    "type": "PE/VC",
+    "sector": "Infrastructure",
+    "year": 2020,
+    "value_cr": 8675.9,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "CIM_PolicyBaza.pdf",
+      "VC_Model_PolicyBaza.xlsx",
+      "Investor_Deck_PolicyBaza.pptx",
+      "Term_Sheet_PolicyBaza.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 130.2,
+    "source": "mock_generator"
+  },
+  {
+    "id": 130,
+    "name": "Cred Acquisition",
+    "client": "Cred",
+    "type": "M&A",
+    "sector": "Infrastructure",
+    "year": 2020,
+    "value_cr": 3413.4,
+    "status": "Closed",
+    "team": [
+      "Neha Jain",
+      "Rohan Gupta"
+    ],
+    "files": [
+      "IM_Cred.pdf",
+      "DCF_Model_Cred.xlsx",
+      "Mgmt_Presentation_Cred.pptx",
+      "Valuation_Bridge_Cred.xlsx",
+      "NDA_Cred.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 41.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 131,
+    "name": "Nykaa Series C",
+    "client": "Nykaa",
+    "type": "PE/VC",
+    "sector": "Other",
+    "year": 2023,
+    "value_cr": 10224.3,
+    "status": "Closed",
+    "team": [
+      "Priya Sharma",
+      "Vikram Patel"
+    ],
+    "files": [
+      "CIM_Nykaa.pdf",
+      "VC_Model_Nykaa.xlsx",
+      "Investor_Deck_Nykaa.pptx",
+      "Term_Sheet_Nykaa.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 153.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 132,
+    "name": "Infosys Series D",
+    "client": "Infosys",
+    "type": "PE/VC",
+    "sector": "Fintech",
+    "year": 2020,
+    "value_cr": 11130.1,
+    "status": "Closed",
+    "team": [
+      "Rohan Gupta"
+    ],
+    "files": [
+      "CIM_Infosys.pdf",
+      "VC_Model_Infosys.xlsx",
+      "Investor_Deck_Infosys.pptx"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 209.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 133,
+    "name": "Cipla Acquisition",
+    "client": "Cipla",
+    "type": "M&A",
+    "sector": "Fintech",
+    "year": 2022,
+    "value_cr": 10527.6,
+    "status": "Closed",
+    "team": [
+      "Rohan Gupta"
+    ],
+    "files": [
+      "IM_Cipla.pdf",
+      "DCF_Model_Cipla.xlsx",
+      "Valuation_Bridge_Cipla.xlsx",
+      "NDA_Cipla.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 130.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 134,
+    "name": "Sun Pharma Buyout",
+    "client": "Sun Pharma",
+    "type": "M&A",
+    "sector": "Other",
+    "year": 2019,
+    "value_cr": 4596.3,
+    "status": "In Progress",
+    "team": [
+      "Vikram Patel",
+      "Priya Sharma"
+    ],
+    "files": [
+      "IM_SunPharma.pdf",
+      "DCF_Model_SunPharma.xlsx",
+      "Mgmt_Presentation_SunPharma.pptx",
+      "Valuation_Bridge_SunPharma.xlsx",
+      "NDA_SunPharma.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 39.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 135,
+    "name": "Curefit Acquisition",
+    "client": "Curefit",
+    "type": "M&A",
+    "sector": "Infrastructure",
+    "year": 2018,
+    "value_cr": 4186.9,
+    "status": "Closed",
+    "team": [
+      "Rohan Gupta"
+    ],
+    "files": [
+      "IM_Curefit.pdf",
+      "DCF_Model_Curefit.xlsx",
+      "Mgmt_Presentation_Curefit.pptx",
+      "Valuation_Bridge_Curefit.xlsx"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 32.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 136,
+    "name": "Ola $500M Notes",
+    "client": "Ola",
+    "type": "DCM",
+    "sector": "BFSI",
+    "year": 2021,
+    "value_cr": 8605.2,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor",
+      "Neha Jain",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "Offering_Memo_Ola.pdf",
+      "Credit_Model_Ola.xlsx",
+      "Rating_Agency_Pres_Ola.pptx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 61.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 137,
+    "name": "Wipro Growth Equity",
+    "client": "Wipro",
+    "type": "PE/VC",
+    "sector": "Infrastructure",
+    "year": 2018,
+    "value_cr": 2175.7,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor",
+      "Rohan Gupta"
+    ],
+    "files": [
+      "CIM_Wipro.pdf",
+      "VC_Model_Wipro.xlsx",
+      "Investor_Deck_Wipro.pptx",
+      "Term_Sheet_Wipro.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 34.4,
+    "source": "mock_generator"
+  },
+  {
+    "id": 138,
+    "name": "Udaan Series D",
+    "client": "Udaan",
+    "type": "PE/VC",
+    "sector": "BFSI",
+    "year": 2019,
+    "value_cr": 5226.2,
+    "status": "Closed",
+    "team": [
+      "Arjun Mehta"
+    ],
+    "files": [
+      "CIM_Udaan.pdf",
+      "VC_Model_Udaan.xlsx",
+      "Investor_Deck_Udaan.pptx",
+      "Term_Sheet_Udaan.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 94.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 139,
+    "name": "Maruti Merger",
+    "client": "Maruti",
+    "type": "M&A",
+    "sector": "Fintech",
+    "year": 2018,
+    "value_cr": 5215.4,
+    "status": "In Progress",
+    "team": [
+      "Arjun Mehta",
+      "Rohan Gupta",
+      "Priya Sharma"
+    ],
+    "files": [
+      "IM_Maruti.pdf",
+      "Mgmt_Presentation_Maruti.pptx",
+      "Valuation_Bridge_Maruti.xlsx",
+      "NDA_Maruti.pdf"
+    ],
+    "tags": [
+      "Cross-border",
+      "Strategic"
+    ],
+    "region": "Singapore",
+    "revenue_cr": 59.4,
+    "source": "mock_generator"
+  },
+  {
+    "id": 140,
+    "name": "Meesho Rights Issue",
+    "client": "Meesho",
+    "type": "ECM",
+    "sector": "EdTech",
+    "year": 2022,
+    "value_cr": 4285.9,
+    "status": "In Progress",
+    "team": [
+      "Ananya Roy",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "Prospectus_Meesho.pdf",
+      "IPO_Model_Meesho.xlsx",
+      "Anchor_Deck_Meesho.pptx",
+      "Roadshow_Pres_Meesho.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 133.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 141,
+    "name": "Delhivery Spin-off",
+    "client": "Delhivery",
+    "type": "M&A",
+    "sector": "EdTech",
+    "year": 2018,
+    "value_cr": 8772.8,
+    "status": "In Progress",
+    "team": [
+      "Ananya Roy",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "IM_Delhivery.pdf",
+      "DCF_Model_Delhivery.xlsx",
+      "Mgmt_Presentation_Delhivery.pptx",
+      "Valuation_Bridge_Delhivery.xlsx",
+      "NDA_Delhivery.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 85.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 142,
+    "name": "Bharti Airtel Rights Issue",
+    "client": "Bharti Airtel",
+    "type": "ECM",
+    "sector": "Healthcare",
+    "year": 2018,
+    "value_cr": 3793.9,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "IPO_Model_BhartiAirt.xlsx",
+      "Anchor_Deck_BhartiAirt.pptx",
+      "Roadshow_Pres_BhartiAirt.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 98.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 143,
+    "name": "Zerodha Series D",
+    "client": "Zerodha",
+    "type": "PE/VC",
+    "sector": "BFSI",
+    "year": 2018,
+    "value_cr": 3793.9,
+    "status": "In Progress",
+    "team": [
+      "Arjun Mehta",
+      "Neha Jain",
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "CIM_Zerodha.pdf",
+      "Investor_Deck_Zerodha.pptx",
+      "Term_Sheet_Zerodha.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 85.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 144,
+    "name": "Zomato Series C",
+    "client": "Zomato",
+    "type": "PE/VC",
+    "sector": "Healthcare",
+    "year": 2021,
+    "value_cr": 6163.2,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor",
+      "Neha Jain"
+    ],
+    "files": [
+      "CIM_Zomato.pdf",
+      "VC_Model_Zomato.xlsx",
+      "Term_Sheet_Zomato.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 61.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 145,
+    "name": "Infosys Series C",
+    "client": "Infosys",
+    "type": "PE/VC",
+    "sector": "EdTech",
+    "year": 2018,
+    "value_cr": 3049.6,
+    "status": "In Progress",
+    "team": [
+      "Arjun Mehta",
+      "Ananya Roy"
+    ],
+    "files": [
+      "CIM_Infosys.pdf",
+      "VC_Model_Infosys.xlsx",
+      "Investor_Deck_Infosys.pptx",
+      "Term_Sheet_Infosys.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 39.5,
+    "source": "mock_generator"
+  },
+  {
+    "id": 146,
+    "name": "Cred Rights Issue",
+    "client": "Cred",
+    "type": "ECM",
+    "sector": "Energy",
+    "year": 2024,
+    "value_cr": 1858.7,
+    "status": "In Progress",
+    "team": [
+      "Vikram Patel",
+      "Karan Singh"
+    ],
+    "files": [
+      "Prospectus_Cred.pdf",
+      "IPO_Model_Cred.xlsx",
+      "Anchor_Deck_Cred.pptx",
+      "Roadshow_Pres_Cred.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 54.5,
+    "source": "mock_generator"
+  },
+  {
+    "id": 147,
+    "name": "PolicyBazaar Series D",
+    "client": "PolicyBazaar",
+    "type": "PE/VC",
+    "sector": "Energy",
+    "year": 2022,
+    "value_cr": 779.0,
+    "status": "Closed",
+    "team": [
+      "Karan Singh"
+    ],
+    "files": [
+      "CIM_PolicyBaza.pdf",
+      "VC_Model_PolicyBaza.xlsx",
+      "Investor_Deck_PolicyBaza.pptx",
+      "Term_Sheet_PolicyBaza.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 18.8,
+    "source": "mock_generator"
+  },
+  {
+    "id": 148,
+    "name": "Swiggy $500M Notes",
+    "client": "Swiggy",
+    "type": "DCM",
+    "sector": "Fintech",
+    "year": 2019,
+    "value_cr": 6805.0,
+    "status": "Closed",
+    "team": [
+      "Priya Sharma",
+      "Rohan Gupta",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "Offering_Memo_Swiggy.pdf",
+      "Credit_Model_Swiggy.xlsx",
+      "Rating_Agency_Pres_Swiggy.pptx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 35.1,
+    "source": "mock_generator"
+  },
+  {
+    "id": 149,
+    "name": "Byjus Spin-off",
+    "client": "Byjus",
+    "type": "M&A",
+    "sector": "Consumer Tech",
+    "year": 2020,
+    "value_cr": 14405.0,
+    "status": "Closed",
+    "team": [
+      "Vikram Patel"
+    ],
+    "files": [
+      "IM_Byjus.pdf",
+      "DCF_Model_Byjus.xlsx",
+      "Mgmt_Presentation_Byjus.pptx",
+      "Valuation_Bridge_Byjus.xlsx",
+      "NDA_Byjus.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 102.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 150,
+    "name": "FirstCry Spin-off",
+    "client": "FirstCry",
+    "type": "M&A",
+    "sector": "Other",
+    "year": 2022,
+    "value_cr": 9223.1,
+    "status": "Closed",
+    "team": [
+      "Vikram Patel",
+      "Priya Sharma"
+    ],
+    "files": [
+      "IM_FirstCry.pdf",
+      "DCF_Model_FirstCry.xlsx",
+      "Mgmt_Presentation_FirstCry.pptx",
+      "Valuation_Bridge_FirstCry.xlsx",
+      "NDA_FirstCry.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 107.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 151,
+    "name": "Adani Spin-off",
+    "client": "Adani",
+    "type": "M&A",
+    "sector": "EdTech",
+    "year": 2019,
+    "value_cr": 3989.5,
+    "status": "In Progress",
+    "team": [
+      "Arjun Mehta"
+    ],
+    "files": [
+      "IM_Adani.pdf",
+      "DCF_Model_Adani.xlsx",
+      "Mgmt_Presentation_Adani.pptx",
+      "Valuation_Bridge_Adani.xlsx",
+      "NDA_Adani.pdf"
+    ],
+    "tags": [
+      "Cross-border",
+      "Strategic"
+    ],
+    "region": "US",
+    "revenue_cr": 29.2,
+    "source": "mock_generator"
+  },
+  {
+    "id": 152,
+    "name": "Dr Reddys Acquisition",
+    "client": "Dr Reddys",
+    "type": "M&A",
+    "sector": "Healthcare",
+    "year": 2022,
+    "value_cr": 5416.7,
+    "status": "Closed",
+    "team": [
+      "Neha Jain",
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "IM_DrReddys.pdf",
+      "DCF_Model_DrReddys.xlsx",
+      "Mgmt_Presentation_DrReddys.pptx",
+      "NDA_DrReddys.pdf"
+    ],
+    "tags": [
+      "Cross-border",
+      "Strategic"
+    ],
+    "region": "US",
+    "revenue_cr": 35.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 153,
+    "name": "Pine Labs IPO",
+    "client": "Pine Labs",
+    "type": "ECM",
+    "sector": "Infrastructure",
+    "year": 2023,
+    "value_cr": 13198.4,
+    "status": "Closed",
+    "team": [
+      "Rohan Gupta"
+    ],
+    "files": [
+      "Prospectus_PineLabs.pdf",
+      "IPO_Model_PineLabs.xlsx",
+      "Anchor_Deck_PineLabs.pptx",
+      "Roadshow_Pres_PineLabs.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 438.5,
+    "source": "mock_generator"
+  },
+  {
+    "id": 154,
+    "name": "Zomato Growth Equity",
+    "client": "Zomato",
+    "type": "PE/VC",
+    "sector": "EdTech",
+    "year": 2022,
+    "value_cr": 2247.0,
+    "status": "Closed",
+    "team": [
+      "Ananya Roy",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "VC_Model_Zomato.xlsx",
+      "Investor_Deck_Zomato.pptx",
+      "Term_Sheet_Zomato.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 28.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 155,
+    "name": "L&T Series C",
+    "client": "L&T",
+    "type": "PE/VC",
+    "sector": "EdTech",
+    "year": 2021,
+    "value_cr": 8554.1,
+    "status": "Closed",
+    "team": [
+      "Ananya Roy",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "CIM_L&T.pdf",
+      "Investor_Deck_L&T.pptx",
+      "Term_Sheet_L&T.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Unicorn"
+    ],
+    "region": "India",
+    "revenue_cr": 115.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 156,
+    "name": "Adani Buyout",
+    "client": "Adani",
+    "type": "M&A",
+    "sector": "Other",
+    "year": 2020,
+    "value_cr": 1107.5,
+    "status": "In Progress",
+    "team": [
+      "Priya Sharma",
+      "Vikram Patel"
+    ],
+    "files": [
+      "IM_Adani.pdf",
+      "DCF_Model_Adani.xlsx",
+      "Mgmt_Presentation_Adani.pptx",
+      "Valuation_Bridge_Adani.xlsx",
+      "NDA_Adani.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 6.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 157,
+    "name": "Lenskart Series D",
+    "client": "Lenskart",
+    "type": "PE/VC",
+    "sector": "Energy",
+    "year": 2018,
+    "value_cr": 14187.1,
+    "status": "Closed",
+    "team": [
+      "Karan Singh",
+      "Vikram Patel"
+    ],
+    "files": [
+      "CIM_Lenskart.pdf",
+      "VC_Model_Lenskart.xlsx",
+      "Investor_Deck_Lenskart.pptx",
+      "Term_Sheet_Lenskart.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 322.8,
+    "source": "mock_generator"
+  },
+  {
+    "id": 158,
+    "name": "ShareChat Buyout",
+    "client": "ShareChat",
+    "type": "M&A",
+    "sector": "BFSI",
+    "year": 2019,
+    "value_cr": 6857.3,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "IM_ShareChat.pdf",
+      "DCF_Model_ShareChat.xlsx",
+      "Mgmt_Presentation_ShareChat.pptx",
+      "Valuation_Bridge_ShareChat.xlsx"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 89.4,
+    "source": "mock_generator"
+  },
+  {
+    "id": 159,
+    "name": "Cred Buyout",
+    "client": "Cred",
+    "type": "M&A",
+    "sector": "Consumer Tech",
+    "year": 2023,
+    "value_cr": 10345.8,
+    "status": "Closed",
+    "team": [
+      "Ananya Roy"
+    ],
+    "files": [
+      "IM_Cred.pdf",
+      "DCF_Model_Cred.xlsx",
+      "Mgmt_Presentation_Cred.pptx",
+      "Valuation_Bridge_Cred.xlsx"
+    ],
+    "tags": [
+      "Cross-border",
+      "Strategic"
+    ],
+    "region": "UK",
+    "revenue_cr": 82.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 160,
+    "name": "HDFC Series C",
+    "client": "HDFC",
+    "type": "PE/VC",
+    "sector": "EdTech",
+    "year": 2019,
+    "value_cr": 13852.1,
+    "status": "In Progress",
+    "team": [
+      "Ananya Roy"
+    ],
+    "files": [
+      "CIM_HDFC.pdf",
+      "Investor_Deck_HDFC.pptx",
+      "Term_Sheet_HDFC.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 140.2,
+    "source": "mock_generator"
+  },
+  {
+    "id": 161,
+    "name": "Dr Reddys IPO",
+    "client": "Dr Reddys",
+    "type": "ECM",
+    "sector": "Other",
+    "year": 2022,
+    "value_cr": 11887.9,
+    "status": "Closed",
+    "team": [
+      "Vikram Patel",
+      "Priya Sharma"
+    ],
+    "files": [
+      "Prospectus_DrReddys.pdf",
+      "IPO_Model_DrReddys.xlsx",
+      "Anchor_Deck_DrReddys.pptx"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 279.5,
+    "source": "mock_generator"
+  },
+  {
+    "id": 162,
+    "name": "Upstox FPO",
+    "client": "Upstox",
+    "type": "ECM",
+    "sector": "Other",
+    "year": 2022,
+    "value_cr": 6701.4,
+    "status": "Closed",
+    "team": [
+      "Priya Sharma",
+      "Vikram Patel"
+    ],
+    "files": [
+      "Prospectus_Upstox.pdf",
+      "IPO_Model_Upstox.xlsx",
+      "Anchor_Deck_Upstox.pptx",
+      "Roadshow_Pres_Upstox.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 181.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 163,
+    "name": "Tata Motors Buyout",
+    "client": "Tata Motors",
+    "type": "M&A",
+    "sector": "Infrastructure",
+    "year": 2024,
+    "value_cr": 7931.6,
+    "status": "Pipeline",
+    "team": [
+      "Rohan Gupta"
+    ],
+    "files": [
+      "IM_TataMotors.pdf",
+      "DCF_Model_TataMotors.xlsx",
+      "Mgmt_Presentation_TataMotors.pptx",
+      "NDA_TataMotors.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 94.5,
+    "source": "mock_generator"
+  },
+  {
+    "id": 164,
+    "name": "Udaan $500M Notes",
+    "client": "Udaan",
+    "type": "DCM",
+    "sector": "EdTech",
+    "year": 2020,
+    "value_cr": 13648.0,
+    "status": "Closed",
+    "team": [
+      "Ananya Roy",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "Offering_Memo_Udaan.pdf",
+      "Credit_Model_Udaan.xlsx",
+      "Rating_Agency_Pres_Udaan.pptx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 80.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 165,
+    "name": "Reliance Merger",
+    "client": "Reliance",
+    "type": "M&A",
+    "sector": "Fintech",
+    "year": 2021,
+    "value_cr": 14725.9,
+    "status": "Closed",
+    "team": [
+      "Arjun Mehta",
+      "Priya Sharma",
+      "Rohan Gupta"
+    ],
+    "files": [
+      "IM_Reliance.pdf",
+      "DCF_Model_Reliance.xlsx",
+      "Valuation_Bridge_Reliance.xlsx",
+      "NDA_Reliance.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 95.5,
+    "source": "mock_generator"
+  },
+  {
+    "id": 166,
+    "name": "Mahindra Buyout",
+    "client": "Mahindra",
+    "type": "M&A",
+    "sector": "Consumer Tech",
+    "year": 2018,
+    "value_cr": 6200.3,
+    "status": "Closed",
+    "team": [
+      "Vikram Patel"
+    ],
+    "files": [
+      "IM_Mahindra.pdf",
+      "DCF_Model_Mahindra.xlsx",
+      "Mgmt_Presentation_Mahindra.pptx",
+      "Valuation_Bridge_Mahindra.xlsx"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 81.8,
+    "source": "mock_generator"
+  },
+  {
+    "id": 167,
+    "name": "Infosys Acquisition",
+    "client": "Infosys",
+    "type": "M&A",
+    "sector": "Infrastructure",
+    "year": 2024,
+    "value_cr": 7737.7,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor",
+      "Neha Jain",
+      "Rohan Gupta"
+    ],
+    "files": [
+      "IM_Infosys.pdf",
+      "DCF_Model_Infosys.xlsx",
+      "Mgmt_Presentation_Infosys.pptx",
+      "Valuation_Bridge_Infosys.xlsx",
+      "NDA_Infosys.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 53.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 168,
+    "name": "PharmEasy Merger",
+    "client": "PharmEasy",
+    "type": "M&A",
+    "sector": "Energy",
+    "year": 2018,
+    "value_cr": 10265.2,
+    "status": "Pipeline",
+    "team": [
+      "Vikram Patel",
+      "Karan Singh"
+    ],
+    "files": [
+      "IM_PharmEasy.pdf",
+      "DCF_Model_PharmEasy.xlsx",
+      "Mgmt_Presentation_PharmEasy.pptx",
+      "Valuation_Bridge_PharmEasy.xlsx"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 138.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 169,
+    "name": "Udaan Series C",
+    "client": "Udaan",
+    "type": "PE/VC",
+    "sector": "Infrastructure",
+    "year": 2019,
+    "value_cr": 14036.3,
+    "status": "Closed",
+    "team": [
+      "Rohan Gupta",
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "CIM_Udaan.pdf",
+      "VC_Model_Udaan.xlsx",
+      "Investor_Deck_Udaan.pptx",
+      "Term_Sheet_Udaan.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Unicorn"
+    ],
+    "region": "India",
+    "revenue_cr": 278.1,
+    "source": "mock_generator"
+  },
+  {
+    "id": 170,
+    "name": "FirstCry Spin-off",
+    "client": "FirstCry",
+    "type": "M&A",
+    "sector": "Energy",
+    "year": 2024,
+    "value_cr": 11358.9,
+    "status": "Closed",
+    "team": [
+      "Karan Singh"
+    ],
+    "files": [
+      "DCF_Model_FirstCry.xlsx",
+      "Mgmt_Presentation_FirstCry.pptx",
+      "Valuation_Bridge_FirstCry.xlsx",
+      "NDA_FirstCry.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 126.9,
+    "source": "mock_generator"
+  },
+  {
+    "id": 171,
+    "name": "ShareChat Series D",
+    "client": "ShareChat",
+    "type": "PE/VC",
+    "sector": "Healthcare",
+    "year": 2022,
+    "value_cr": 4565.5,
+    "status": "Pipeline",
+    "team": [
+      "Neha Jain",
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "CIM_ShareChat.pdf",
+      "Investor_Deck_ShareChat.pptx",
+      "Term_Sheet_ShareChat.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 82.9,
+    "source": "mock_generator"
+  },
+  {
+    "id": 172,
+    "name": "Cred Growth Equity",
+    "client": "Cred",
+    "type": "PE/VC",
+    "sector": "Other",
+    "year": 2018,
+    "value_cr": 14872.9,
+    "status": "Closed",
+    "team": [
+      "Vikram Patel",
+      "Priya Sharma"
+    ],
+    "files": [
+      "CIM_Cred.pdf",
+      "VC_Model_Cred.xlsx",
+      "Investor_Deck_Cred.pptx",
+      "Term_Sheet_Cred.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Unicorn"
+    ],
+    "region": "India",
+    "revenue_cr": 277.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 173,
+    "name": "Pine Labs Buyout",
+    "client": "Pine Labs",
+    "type": "M&A",
+    "sector": "EdTech",
+    "year": 2019,
+    "value_cr": 14927.8,
+    "status": "Closed",
+    "team": [
+      "Arjun Mehta"
+    ],
+    "files": [
+      "IM_PineLabs.pdf",
+      "DCF_Model_PineLabs.xlsx",
+      "Mgmt_Presentation_PineLabs.pptx",
+      "Valuation_Bridge_PineLabs.xlsx",
+      "NDA_PineLabs.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 204.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 174,
+    "name": "Mahindra Spin-off",
+    "client": "Mahindra",
+    "type": "M&A",
+    "sector": "EdTech",
+    "year": 2023,
+    "value_cr": 14984.5,
+    "status": "Pipeline",
+    "team": [
+      "Arjun Mehta",
+      "Ananya Roy"
+    ],
+    "files": [
+      "IM_Mahindra.pdf",
+      "DCF_Model_Mahindra.xlsx",
+      "Mgmt_Presentation_Mahindra.pptx",
+      "Valuation_Bridge_Mahindra.xlsx",
+      "NDA_Mahindra.pdf"
+    ],
+    "tags": [
+      "Cross-border",
+      "Strategic"
+    ],
+    "region": "Singapore",
+    "revenue_cr": 190.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 175,
+    "name": "Bajaj Auto $500M Notes",
+    "client": "Bajaj Auto",
+    "type": "DCM",
+    "sector": "Other",
+    "year": 2018,
+    "value_cr": 2207.5,
+    "status": "Closed",
+    "team": [
+      "Priya Sharma"
+    ],
+    "files": [
+      "Offering_Memo_BajajAuto.pdf",
+      "Credit_Model_BajajAuto.xlsx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 10.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 176,
+    "name": "L&T Rights Issue",
+    "client": "L&T",
+    "type": "ECM",
+    "sector": "Other",
+    "year": 2022,
+    "value_cr": 963.7,
+    "status": "In Progress",
+    "team": [
+      "Vikram Patel",
+      "Priya Sharma"
+    ],
+    "files": [
+      "Prospectus_L&T.pdf",
+      "IPO_Model_L&T.xlsx",
+      "Anchor_Deck_L&T.pptx"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 19.9,
+    "source": "mock_generator"
+  },
+  {
+    "id": 177,
+    "name": "Cipla Series C",
+    "client": "Cipla",
+    "type": "PE/VC",
+    "sector": "Energy",
+    "year": 2019,
+    "value_cr": 4326.0,
+    "status": "Closed",
+    "team": [
+      "Vikram Patel",
+      "Karan Singh"
+    ],
+    "files": [
+      "CIM_Cipla.pdf",
+      "Investor_Deck_Cipla.pptx",
+      "Term_Sheet_Cipla.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 79.4,
+    "source": "mock_generator"
+  },
+  {
+    "id": 178,
+    "name": "HDFC Growth Equity",
+    "client": "HDFC",
+    "type": "PE/VC",
+    "sector": "Energy",
+    "year": 2021,
+    "value_cr": 10319.4,
+    "status": "In Progress",
+    "team": [
+      "Karan Singh",
+      "Vikram Patel"
+    ],
+    "files": [
+      "CIM_HDFC.pdf",
+      "VC_Model_HDFC.xlsx",
+      "Investor_Deck_HDFC.pptx",
+      "Term_Sheet_HDFC.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 213.4,
+    "source": "mock_generator"
+  },
+  {
+    "id": 179,
+    "name": "Mahindra IPO",
+    "client": "Mahindra",
+    "type": "ECM",
+    "sector": "Other",
+    "year": 2023,
+    "value_cr": 5836.1,
+    "status": "Closed",
+    "team": [
+      "Vikram Patel",
+      "Priya Sharma"
+    ],
+    "files": [
+      "Prospectus_Mahindra.pdf",
+      "IPO_Model_Mahindra.xlsx",
+      "Anchor_Deck_Mahindra.pptx",
+      "Roadshow_Pres_Mahindra.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 188.4,
+    "source": "mock_generator"
+  },
+  {
+    "id": 180,
+    "name": "Cipla $500M Notes",
+    "client": "Cipla",
+    "type": "DCM",
+    "sector": "BFSI",
+    "year": 2021,
+    "value_cr": 11076.8,
+    "status": "Closed",
+    "team": [
+      "Arjun Mehta",
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "Offering_Memo_Cipla.pdf",
+      "Credit_Model_Cipla.xlsx",
+      "Rating_Agency_Pres_Cipla.pptx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 88.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 181,
+    "name": "L&T Buyout",
+    "client": "L&T",
+    "type": "M&A",
+    "sector": "Other",
+    "year": 2024,
+    "value_cr": 12361.1,
+    "status": "Closed",
+    "team": [
+      "Priya Sharma"
+    ],
+    "files": [
+      "IM_L&T.pdf",
+      "Mgmt_Presentation_L&T.pptx",
+      "Valuation_Bridge_L&T.xlsx",
+      "NDA_L&T.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 142.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 182,
+    "name": "Adani Series D",
+    "client": "Adani",
+    "type": "PE/VC",
+    "sector": "Consumer Tech",
+    "year": 2019,
+    "value_cr": 7971.1,
+    "status": "Closed",
+    "team": [
+      "Ananya Roy",
+      "Karan Singh",
+      "Vikram Patel"
+    ],
+    "files": [
+      "CIM_Adani.pdf",
+      "VC_Model_Adani.xlsx",
+      "Investor_Deck_Adani.pptx",
+      "Term_Sheet_Adani.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Unicorn"
+    ],
+    "region": "India",
+    "revenue_cr": 134.4,
+    "source": "mock_generator"
+  },
+  {
+    "id": 183,
+    "name": "Dr Reddys Series D",
+    "client": "Dr Reddys",
+    "type": "PE/VC",
+    "sector": "Healthcare",
+    "year": 2024,
+    "value_cr": 14475.2,
+    "status": "Closed",
+    "team": [
+      "Neha Jain",
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "VC_Model_DrReddys.xlsx",
+      "Investor_Deck_DrReddys.pptx",
+      "Term_Sheet_DrReddys.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Unicorn"
+    ],
+    "region": "India",
+    "revenue_cr": 298.9,
+    "source": "mock_generator"
+  },
+  {
+    "id": 184,
+    "name": "Bajaj Auto Series D",
+    "client": "Bajaj Auto",
+    "type": "PE/VC",
+    "sector": "Fintech",
+    "year": 2020,
+    "value_cr": 9974.8,
+    "status": "Closed",
+    "team": [
+      "Arjun Mehta",
+      "Priya Sharma",
+      "Rohan Gupta"
+    ],
+    "files": [
+      "CIM_BajajAuto.pdf",
+      "VC_Model_BajajAuto.xlsx",
+      "Investor_Deck_BajajAuto.pptx",
+      "Term_Sheet_BajajAuto.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 234.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 185,
+    "name": "Zomato Buyout",
+    "client": "Zomato",
+    "type": "M&A",
+    "sector": "Consumer Tech",
+    "year": 2021,
+    "value_cr": 4633.1,
+    "status": "Closed",
+    "team": [
+      "Vikram Patel",
+      "Ananya Roy"
+    ],
+    "files": [
+      "IM_Zomato.pdf",
+      "Mgmt_Presentation_Zomato.pptx",
+      "Valuation_Bridge_Zomato.xlsx",
+      "NDA_Zomato.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 25.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 186,
+    "name": "PharmEasy Spin-off",
+    "client": "PharmEasy",
+    "type": "M&A",
+    "sector": "Energy",
+    "year": 2022,
+    "value_cr": 6087.6,
+    "status": "Closed",
+    "team": [
+      "Vikram Patel",
+      "Karan Singh"
+    ],
+    "files": [
+      "IM_PharmEasy.pdf",
+      "DCF_Model_PharmEasy.xlsx",
+      "Mgmt_Presentation_PharmEasy.pptx",
+      "Valuation_Bridge_PharmEasy.xlsx",
+      "NDA_PharmEasy.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 51.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 187,
+    "name": "Mahindra Buyout",
+    "client": "Mahindra",
+    "type": "M&A",
+    "sector": "Infrastructure",
+    "year": 2022,
+    "value_cr": 666.4,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor",
+      "Neha Jain",
+      "Rohan Gupta"
+    ],
+    "files": [
+      "IM_Mahindra.pdf",
+      "DCF_Model_Mahindra.xlsx",
+      "Mgmt_Presentation_Mahindra.pptx",
+      "Valuation_Bridge_Mahindra.xlsx",
+      "NDA_Mahindra.pdf"
+    ],
+    "tags": [
+      "Cross-border",
+      "Strategic"
+    ],
+    "region": "UK",
+    "revenue_cr": 9.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 188,
+    "name": "Sun Pharma Growth Equity",
+    "client": "Sun Pharma",
+    "type": "PE/VC",
+    "sector": "Healthcare",
+    "year": 2022,
+    "value_cr": 4974.5,
+    "status": "Pipeline",
+    "team": [
+      "Rishi Kapoor",
+      "Neha Jain"
+    ],
+    "files": [
+      "VC_Model_SunPharma.xlsx",
+      "Investor_Deck_SunPharma.pptx",
+      "Term_Sheet_SunPharma.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 61.9,
+    "source": "mock_generator"
+  },
+  {
+    "id": 189,
+    "name": "HDFC Series C",
+    "client": "HDFC",
+    "type": "PE/VC",
+    "sector": "BFSI",
+    "year": 2019,
+    "value_cr": 1211.0,
+    "status": "In Progress",
+    "team": [
+      "Neha Jain",
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "VC_Model_HDFC.xlsx",
+      "Investor_Deck_HDFC.pptx",
+      "Term_Sheet_HDFC.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 17.9,
+    "source": "mock_generator"
+  },
+  {
+    "id": 190,
+    "name": "Swiggy Acquisition",
+    "client": "Swiggy",
+    "type": "M&A",
+    "sector": "EdTech",
+    "year": 2021,
+    "value_cr": 3306.6,
+    "status": "Closed",
+    "team": [
+      "Ananya Roy",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "IM_Swiggy.pdf",
+      "DCF_Model_Swiggy.xlsx",
+      "Mgmt_Presentation_Swiggy.pptx",
+      "Valuation_Bridge_Swiggy.xlsx",
+      "NDA_Swiggy.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 45.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 191,
+    "name": "Oyo Series D",
+    "client": "Oyo",
+    "type": "PE/VC",
+    "sector": "Consumer Tech",
+    "year": 2024,
+    "value_cr": 9398.4,
+    "status": "Pipeline",
+    "team": [
+      "Karan Singh",
+      "Ananya Roy",
+      "Vikram Patel"
+    ],
+    "files": [
+      "CIM_Oyo.pdf",
+      "VC_Model_Oyo.xlsx",
+      "Investor_Deck_Oyo.pptx",
+      "Term_Sheet_Oyo.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 156.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 192,
+    "name": "Reliance Growth Equity",
+    "client": "Reliance",
+    "type": "PE/VC",
+    "sector": "Infrastructure",
+    "year": 2021,
+    "value_cr": 6410.8,
+    "status": "Closed",
+    "team": [
+      "Neha Jain",
+      "Rohan Gupta",
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "CIM_Reliance.pdf",
+      "VC_Model_Reliance.xlsx",
+      "Investor_Deck_Reliance.pptx",
+      "Term_Sheet_Reliance.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 77.2,
+    "source": "mock_generator"
+  },
+  {
+    "id": 193,
+    "name": "Mahindra IPO",
+    "client": "Mahindra",
+    "type": "ECM",
+    "sector": "Healthcare",
+    "year": 2021,
+    "value_cr": 5358.0,
+    "status": "In Progress",
+    "team": [
+      "Rishi Kapoor",
+      "Neha Jain"
+    ],
+    "files": [
+      "Prospectus_Mahindra.pdf",
+      "IPO_Model_Mahindra.xlsx",
+      "Anchor_Deck_Mahindra.pptx",
+      "Roadshow_Pres_Mahindra.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 161.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 194,
+    "name": "1MG Spin-off",
+    "client": "1MG",
+    "type": "M&A",
+    "sector": "Energy",
+    "year": 2019,
+    "value_cr": 6770.8,
+    "status": "In Progress",
+    "team": [
+      "Vikram Patel"
+    ],
+    "files": [
+      "IM_1MG.pdf",
+      "DCF_Model_1MG.xlsx",
+      "Mgmt_Presentation_1MG.pptx",
+      "Valuation_Bridge_1MG.xlsx",
+      "NDA_1MG.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 38.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 195,
+    "name": "Nykaa Merger",
+    "client": "Nykaa",
+    "type": "M&A",
+    "sector": "Other",
+    "year": 2023,
+    "value_cr": 10944.6,
+    "status": "Closed",
+    "team": [
+      "Vikram Patel",
+      "Priya Sharma"
+    ],
+    "files": [
+      "IM_Nykaa.pdf",
+      "DCF_Model_Nykaa.xlsx",
+      "Mgmt_Presentation_Nykaa.pptx",
+      "Valuation_Bridge_Nykaa.xlsx",
+      "NDA_Nykaa.pdf"
+    ],
+    "tags": [
+      "Cross-border",
+      "Strategic"
+    ],
+    "region": "Singapore",
+    "revenue_cr": 155.9,
+    "source": "mock_generator"
+  },
+  {
+    "id": 196,
+    "name": "Maruti Series C",
+    "client": "Maruti",
+    "type": "PE/VC",
+    "sector": "EdTech",
+    "year": 2022,
+    "value_cr": 11976.3,
+    "status": "In Progress",
+    "team": [
+      "Ananya Roy"
+    ],
+    "files": [
+      "CIM_Maruti.pdf",
+      "VC_Model_Maruti.xlsx",
+      "Term_Sheet_Maruti.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Unicorn"
+    ],
+    "region": "India",
+    "revenue_cr": 212.2,
+    "source": "mock_generator"
+  },
+  {
+    "id": 197,
+    "name": "Adani Spin-off",
+    "client": "Adani",
+    "type": "M&A",
+    "sector": "Fintech",
+    "year": 2019,
+    "value_cr": 3752.1,
+    "status": "Closed",
+    "team": [
+      "Priya Sharma"
+    ],
+    "files": [
+      "IM_Adani.pdf",
+      "DCF_Model_Adani.xlsx",
+      "Mgmt_Presentation_Adani.pptx",
+      "Valuation_Bridge_Adani.xlsx",
+      "NDA_Adani.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 31.1,
+    "source": "mock_generator"
+  },
+  {
+    "id": 198,
+    "name": "Bharti Airtel Growth Equity",
+    "client": "Bharti Airtel",
+    "type": "PE/VC",
+    "sector": "Healthcare",
+    "year": 2021,
+    "value_cr": 9267.0,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor",
+      "Neha Jain"
+    ],
+    "files": [
+      "CIM_BhartiAirt.pdf",
+      "VC_Model_BhartiAirt.xlsx",
+      "Investor_Deck_BhartiAirt.pptx",
+      "Term_Sheet_BhartiAirt.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 215.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 199,
+    "name": "Mahindra Series C",
+    "client": "Mahindra",
+    "type": "PE/VC",
+    "sector": "Other",
+    "year": 2020,
+    "value_cr": 8342.4,
+    "status": "Pipeline",
+    "team": [
+      "Vikram Patel",
+      "Priya Sharma"
+    ],
+    "files": [
+      "CIM_Mahindra.pdf",
+      "VC_Model_Mahindra.xlsx",
+      "Investor_Deck_Mahindra.pptx",
+      "Term_Sheet_Mahindra.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 154.4,
+    "source": "mock_generator"
+  },
+  {
+    "id": 200,
+    "name": "Maruti Buyout",
+    "client": "Maruti",
+    "type": "M&A",
+    "sector": "Energy",
+    "year": 2024,
+    "value_cr": 11442.3,
+    "status": "Closed",
+    "team": [
+      "Karan Singh"
+    ],
+    "files": [
+      "IM_Maruti.pdf",
+      "DCF_Model_Maruti.xlsx",
+      "Mgmt_Presentation_Maruti.pptx",
+      "NDA_Maruti.pdf"
+    ],
+    "tags": [
+      "Cross-border",
+      "Strategic"
+    ],
+    "region": "US",
+    "revenue_cr": 81.5,
+    "source": "mock_generator"
+  },
+  {
+    "id": 201,
+    "name": "Mahindra Series D",
+    "client": "Mahindra",
+    "type": "PE/VC",
+    "sector": "Infrastructure",
+    "year": 2021,
+    "value_cr": 4482.8,
+    "status": "Closed",
+    "team": [
+      "Neha Jain"
+    ],
+    "files": [
+      "VC_Model_Mahindra.xlsx",
+      "Investor_Deck_Mahindra.pptx",
+      "Term_Sheet_Mahindra.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 103.9,
+    "source": "mock_generator"
+  },
+  {
+    "id": 202,
+    "name": "Cred Series C",
+    "client": "Cred",
+    "type": "PE/VC",
+    "sector": "BFSI",
+    "year": 2023,
+    "value_cr": 4993.6,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "CIM_Cred.pdf",
+      "VC_Model_Cred.xlsx",
+      "Investor_Deck_Cred.pptx",
+      "Term_Sheet_Cred.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 101.2,
+    "source": "mock_generator"
+  },
+  {
+    "id": 203,
+    "name": "Bharti Airtel Spin-off",
+    "client": "Bharti Airtel",
+    "type": "M&A",
+    "sector": "Healthcare",
+    "year": 2020,
+    "value_cr": 7872.5,
+    "status": "Closed",
+    "team": [
+      "Neha Jain",
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "IM_BhartiAirt.pdf",
+      "Mgmt_Presentation_BhartiAirt.pptx",
+      "Valuation_Bridge_BhartiAirt.xlsx",
+      "NDA_BhartiAirt.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 41.9,
+    "source": "mock_generator"
+  },
+  {
+    "id": 204,
+    "name": "Mahindra Series C",
+    "client": "Mahindra",
+    "type": "PE/VC",
+    "sector": "Healthcare",
+    "year": 2019,
+    "value_cr": 5042.5,
+    "status": "Pipeline",
+    "team": [
+      "Neha Jain"
+    ],
+    "files": [
+      "CIM_Mahindra.pdf",
+      "VC_Model_Mahindra.xlsx",
+      "Investor_Deck_Mahindra.pptx",
+      "Term_Sheet_Mahindra.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Unicorn"
+    ],
+    "region": "India",
+    "revenue_cr": 94.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 205,
+    "name": "Razorpay Spin-off",
+    "client": "Razorpay",
+    "type": "M&A",
+    "sector": "Healthcare",
+    "year": 2018,
+    "value_cr": 9545.6,
+    "status": "Closed",
+    "team": [
+      "Neha Jain"
+    ],
+    "files": [
+      "IM_Razorpay.pdf",
+      "DCF_Model_Razorpay.xlsx",
+      "Mgmt_Presentation_Razorpay.pptx",
+      "Valuation_Bridge_Razorpay.xlsx",
+      "NDA_Razorpay.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 87.4,
+    "source": "mock_generator"
+  },
+  {
+    "id": 206,
+    "name": "Upstox $500M Notes",
+    "client": "Upstox",
+    "type": "DCM",
+    "sector": "BFSI",
+    "year": 2019,
+    "value_cr": 12379.4,
+    "status": "In Progress",
+    "team": [
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "Offering_Memo_Upstox.pdf",
+      "Credit_Model_Upstox.xlsx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 55.5,
+    "source": "mock_generator"
+  },
+  {
+    "id": 207,
+    "name": "Pine Labs Merger",
+    "client": "Pine Labs",
+    "type": "M&A",
+    "sector": "BFSI",
+    "year": 2024,
+    "value_cr": 7981.5,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor",
+      "Neha Jain"
+    ],
+    "files": [
+      "IM_PineLabs.pdf",
+      "DCF_Model_PineLabs.xlsx",
+      "Valuation_Bridge_PineLabs.xlsx",
+      "NDA_PineLabs.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 68.5,
+    "source": "mock_generator"
+  },
+  {
+    "id": 208,
+    "name": "Dr Reddys Series C",
+    "client": "Dr Reddys",
+    "type": "PE/VC",
+    "sector": "Healthcare",
+    "year": 2023,
+    "value_cr": 11696.0,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor",
+      "Neha Jain"
+    ],
+    "files": [
+      "CIM_DrReddys.pdf",
+      "VC_Model_DrReddys.xlsx",
+      "Term_Sheet_DrReddys.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 240.1,
+    "source": "mock_generator"
+  },
+  {
+    "id": 209,
+    "name": "TCS $500M Notes",
+    "client": "TCS",
+    "type": "DCM",
+    "sector": "Infrastructure",
+    "year": 2020,
+    "value_cr": 11581.0,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "Offering_Memo_TCS.pdf",
+      "Credit_Model_TCS.xlsx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 48.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 210,
+    "name": "Razorpay Spin-off",
+    "client": "Razorpay",
+    "type": "M&A",
+    "sector": "BFSI",
+    "year": 2024,
+    "value_cr": 13972.9,
+    "status": "Closed",
+    "team": [
+      "Neha Jain",
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "IM_Razorpay.pdf",
+      "DCF_Model_Razorpay.xlsx",
+      "Mgmt_Presentation_Razorpay.pptx",
+      "Valuation_Bridge_Razorpay.xlsx"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 202.9,
+    "source": "mock_generator"
+  },
+  {
+    "id": 211,
+    "name": "PolicyBazaar IPO",
+    "client": "PolicyBazaar",
+    "type": "ECM",
+    "sector": "Other",
+    "year": 2020,
+    "value_cr": 2859.8,
+    "status": "In Progress",
+    "team": [
+      "Vikram Patel"
+    ],
+    "files": [
+      "Prospectus_PolicyBaza.pdf",
+      "IPO_Model_PolicyBaza.xlsx",
+      "Anchor_Deck_PolicyBaza.pptx",
+      "Roadshow_Pres_PolicyBaza.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 60.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 212,
+    "name": "Oyo Acquisition",
+    "client": "Oyo",
+    "type": "M&A",
+    "sector": "EdTech",
+    "year": 2020,
+    "value_cr": 7893.2,
+    "status": "Closed",
+    "team": [
+      "Ananya Roy",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "IM_Oyo.pdf",
+      "DCF_Model_Oyo.xlsx",
+      "Mgmt_Presentation_Oyo.pptx",
+      "Valuation_Bridge_Oyo.xlsx",
+      "NDA_Oyo.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 44.5,
+    "source": "mock_generator"
+  },
+  {
+    "id": 213,
+    "name": "1MG $500M Notes",
+    "client": "1MG",
+    "type": "DCM",
+    "sector": "Other",
+    "year": 2021,
+    "value_cr": 968.2,
+    "status": "Closed",
+    "team": [
+      "Vikram Patel",
+      "Priya Sharma"
+    ],
+    "files": [
+      "Offering_Memo_1MG.pdf",
+      "Credit_Model_1MG.xlsx",
+      "Rating_Agency_Pres_1MG.pptx"
+    ],
+    "tags": [
+      "Green Bond",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 6.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 214,
+    "name": "FirstCry Growth Equity",
+    "client": "FirstCry",
+    "type": "PE/VC",
+    "sector": "Infrastructure",
+    "year": 2020,
+    "value_cr": 8160.9,
+    "status": "Closed",
+    "team": [
+      "Rohan Gupta",
+      "Rishi Kapoor",
+      "Neha Jain"
+    ],
+    "files": [
+      "CIM_FirstCry.pdf",
+      "VC_Model_FirstCry.xlsx",
+      "Investor_Deck_FirstCry.pptx",
+      "Term_Sheet_FirstCry.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 112.4,
+    "source": "mock_generator"
+  },
+  {
+    "id": 215,
+    "name": "Unacademy Acquisition",
+    "client": "Unacademy",
+    "type": "M&A",
+    "sector": "Infrastructure",
+    "year": 2018,
+    "value_cr": 6644.9,
+    "status": "Closed",
+    "team": [
+      "Neha Jain"
+    ],
+    "files": [
+      "IM_Unacademy.pdf",
+      "DCF_Model_Unacademy.xlsx",
+      "Mgmt_Presentation_Unacademy.pptx",
+      "NDA_Unacademy.pdf"
+    ],
+    "tags": [
+      "Cross-border",
+      "Strategic"
+    ],
+    "region": "Singapore",
+    "revenue_cr": 35.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 216,
+    "name": "Bajaj Auto Buyout",
+    "client": "Bajaj Auto",
+    "type": "M&A",
+    "sector": "BFSI",
+    "year": 2019,
+    "value_cr": 3531.1,
+    "status": "Closed",
+    "team": [
+      "Neha Jain"
+    ],
+    "files": [
+      "IM_BajajAuto.pdf",
+      "DCF_Model_BajajAuto.xlsx",
+      "Mgmt_Presentation_BajajAuto.pptx",
+      "Valuation_Bridge_BajajAuto.xlsx",
+      "NDA_BajajAuto.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 42.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 217,
+    "name": "Bajaj Auto Acquisition",
+    "client": "Bajaj Auto",
+    "type": "M&A",
+    "sector": "Energy",
+    "year": 2022,
+    "value_cr": 10835.9,
+    "status": "Closed",
+    "team": [
+      "Karan Singh"
+    ],
+    "files": [
+      "DCF_Model_BajajAuto.xlsx",
+      "Mgmt_Presentation_BajajAuto.pptx",
+      "Valuation_Bridge_BajajAuto.xlsx",
+      "NDA_BajajAuto.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 110.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 218,
+    "name": "Maruti Series C",
+    "client": "Maruti",
+    "type": "PE/VC",
+    "sector": "Fintech",
+    "year": 2022,
+    "value_cr": 8434.0,
+    "status": "Closed",
+    "team": [
+      "Priya Sharma",
+      "Arjun Mehta",
+      "Rohan Gupta"
+    ],
+    "files": [
+      "CIM_Maruti.pdf",
+      "Investor_Deck_Maruti.pptx",
+      "Term_Sheet_Maruti.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 196.4,
+    "source": "mock_generator"
+  },
+  {
+    "id": 219,
+    "name": "Pine Labs Series D",
+    "client": "Pine Labs",
+    "type": "PE/VC",
+    "sector": "Infrastructure",
+    "year": 2019,
+    "value_cr": 7421.2,
+    "status": "In Progress",
+    "team": [
+      "Neha Jain"
+    ],
+    "files": [
+      "CIM_PineLabs.pdf",
+      "VC_Model_PineLabs.xlsx",
+      "Investor_Deck_PineLabs.pptx",
+      "Term_Sheet_PineLabs.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 139.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 220,
+    "name": "Adani Buyout",
+    "client": "Adani",
+    "type": "M&A",
+    "sector": "EdTech",
+    "year": 2021,
+    "value_cr": 13728.0,
+    "status": "Closed",
+    "team": [
+      "Arjun Mehta",
+      "Ananya Roy"
+    ],
+    "files": [
+      "IM_Adani.pdf",
+      "DCF_Model_Adani.xlsx",
+      "Mgmt_Presentation_Adani.pptx",
+      "Valuation_Bridge_Adani.xlsx",
+      "NDA_Adani.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 202.4,
+    "source": "mock_generator"
+  },
+  {
+    "id": 221,
+    "name": "Maruti FPO",
+    "client": "Maruti",
+    "type": "ECM",
+    "sector": "Infrastructure",
+    "year": 2024,
+    "value_cr": 12403.6,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor",
+      "Rohan Gupta"
+    ],
+    "files": [
+      "IPO_Model_Maruti.xlsx",
+      "Anchor_Deck_Maruti.pptx",
+      "Roadshow_Pres_Maruti.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Oversubscribed"
+    ],
+    "region": "India",
+    "revenue_cr": 322.1,
+    "source": "mock_generator"
+  },
+  {
+    "id": 222,
+    "name": "Meesho Merger",
+    "client": "Meesho",
+    "type": "M&A",
+    "sector": "Fintech",
+    "year": 2024,
+    "value_cr": 12612.2,
+    "status": "Pipeline",
+    "team": [
+      "Priya Sharma",
+      "Rohan Gupta",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "DCF_Model_Meesho.xlsx",
+      "Mgmt_Presentation_Meesho.pptx",
+      "Valuation_Bridge_Meesho.xlsx",
+      "NDA_Meesho.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 94.5,
+    "source": "mock_generator"
+  },
+  {
+    "id": 223,
+    "name": "Reliance Buyout",
+    "client": "Reliance",
+    "type": "M&A",
+    "sector": "Healthcare",
+    "year": 2021,
+    "value_cr": 6725.2,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "IM_Reliance.pdf",
+      "DCF_Model_Reliance.xlsx",
+      "Mgmt_Presentation_Reliance.pptx",
+      "Valuation_Bridge_Reliance.xlsx",
+      "NDA_Reliance.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 56.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 224,
+    "name": "Upstox Spin-off",
+    "client": "Upstox",
+    "type": "M&A",
+    "sector": "Other",
+    "year": 2019,
+    "value_cr": 979.3,
+    "status": "Closed",
+    "team": [
+      "Vikram Patel",
+      "Priya Sharma"
+    ],
+    "files": [
+      "IM_Upstox.pdf",
+      "DCF_Model_Upstox.xlsx",
+      "Mgmt_Presentation_Upstox.pptx",
+      "Valuation_Bridge_Upstox.xlsx",
+      "NDA_Upstox.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 6.2,
+    "source": "mock_generator"
+  },
+  {
+    "id": 225,
+    "name": "Zomato Merger",
+    "client": "Zomato",
+    "type": "M&A",
+    "sector": "BFSI",
+    "year": 2023,
+    "value_cr": 14891.1,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor",
+      "Neha Jain",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "IM_Zomato.pdf",
+      "DCF_Model_Zomato.xlsx",
+      "Mgmt_Presentation_Zomato.pptx",
+      "Valuation_Bridge_Zomato.xlsx",
+      "NDA_Zomato.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 88.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 226,
+    "name": "Zerodha Rights Issue",
+    "client": "Zerodha",
+    "type": "ECM",
+    "sector": "BFSI",
+    "year": 2018,
+    "value_cr": 6365.5,
+    "status": "Closed",
+    "team": [
+      "Arjun Mehta",
+      "Neha Jain"
+    ],
+    "files": [
+      "IPO_Model_Zerodha.xlsx",
+      "Anchor_Deck_Zerodha.pptx",
+      "Roadshow_Pres_Zerodha.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 204.8,
+    "source": "mock_generator"
+  },
+  {
+    "id": 227,
+    "name": "Paytm Growth Equity",
+    "client": "Paytm",
+    "type": "PE/VC",
+    "sector": "Infrastructure",
+    "year": 2021,
+    "value_cr": 7695.1,
+    "status": "Closed",
+    "team": [
+      "Rohan Gupta",
+      "Neha Jain"
+    ],
+    "files": [
+      "CIM_Paytm.pdf",
+      "Investor_Deck_Paytm.pptx",
+      "Term_Sheet_Paytm.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 91.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 228,
+    "name": "HDFC Merger",
+    "client": "HDFC",
+    "type": "M&A",
+    "sector": "Healthcare",
+    "year": 2023,
+    "value_cr": 5613.5,
+    "status": "Closed",
+    "team": [
+      "Neha Jain"
+    ],
+    "files": [
+      "IM_HDFC.pdf",
+      "DCF_Model_HDFC.xlsx",
+      "Mgmt_Presentation_HDFC.pptx",
+      "Valuation_Bridge_HDFC.xlsx",
+      "NDA_HDFC.pdf"
+    ],
+    "tags": [
+      "Cross-border",
+      "Strategic"
+    ],
+    "region": "UK",
+    "revenue_cr": 42.9,
+    "source": "mock_generator"
+  },
+  {
+    "id": 229,
+    "name": "Delhivery Acquisition",
+    "client": "Delhivery",
+    "type": "M&A",
+    "sector": "Energy",
+    "year": 2019,
+    "value_cr": 5765.2,
+    "status": "Closed",
+    "team": [
+      "Vikram Patel",
+      "Karan Singh"
+    ],
+    "files": [
+      "DCF_Model_Delhivery.xlsx",
+      "Mgmt_Presentation_Delhivery.pptx",
+      "Valuation_Bridge_Delhivery.xlsx",
+      "NDA_Delhivery.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 37.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 230,
+    "name": "Paytm Buyout",
+    "client": "Paytm",
+    "type": "M&A",
+    "sector": "Consumer Tech",
+    "year": 2024,
+    "value_cr": 5227.0,
+    "status": "In Progress",
+    "team": [
+      "Vikram Patel"
+    ],
+    "files": [
+      "IM_Paytm.pdf",
+      "DCF_Model_Paytm.xlsx",
+      "Mgmt_Presentation_Paytm.pptx",
+      "Valuation_Bridge_Paytm.xlsx",
+      "NDA_Paytm.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 46.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 231,
+    "name": "ShareChat Buyout",
+    "client": "ShareChat",
+    "type": "M&A",
+    "sector": "Fintech",
+    "year": 2020,
+    "value_cr": 910.2,
+    "status": "Closed",
+    "team": [
+      "Priya Sharma",
+      "Arjun Mehta",
+      "Rohan Gupta"
+    ],
+    "files": [
+      "IM_ShareChat.pdf",
+      "DCF_Model_ShareChat.xlsx",
+      "Mgmt_Presentation_ShareChat.pptx",
+      "Valuation_Bridge_ShareChat.xlsx",
+      "NDA_ShareChat.pdf"
+    ],
+    "tags": [
+      "Cross-border",
+      "Strategic"
+    ],
+    "region": "Singapore",
+    "revenue_cr": 11.1,
+    "source": "mock_generator"
+  },
+  {
+    "id": 232,
+    "name": "Nykaa Rights Issue",
+    "client": "Nykaa",
+    "type": "ECM",
+    "sector": "Other",
+    "year": 2019,
+    "value_cr": 1713.0,
+    "status": "Closed",
+    "team": [
+      "Vikram Patel",
+      "Priya Sharma"
+    ],
+    "files": [
+      "Prospectus_Nykaa.pdf",
+      "IPO_Model_Nykaa.xlsx",
+      "Roadshow_Pres_Nykaa.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 55.1,
+    "source": "mock_generator"
+  },
+  {
+    "id": 233,
+    "name": "HDFC Buyout",
+    "client": "HDFC",
+    "type": "M&A",
+    "sector": "Infrastructure",
+    "year": 2022,
+    "value_cr": 9733.2,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor",
+      "Rohan Gupta"
+    ],
+    "files": [
+      "DCF_Model_HDFC.xlsx",
+      "Mgmt_Presentation_HDFC.pptx",
+      "Valuation_Bridge_HDFC.xlsx",
+      "NDA_HDFC.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 73.5,
+    "source": "mock_generator"
+  },
+  {
+    "id": 234,
+    "name": "Nykaa $500M Notes",
+    "client": "Nykaa",
+    "type": "DCM",
+    "sector": "Other",
+    "year": 2020,
+    "value_cr": 4628.5,
+    "status": "Pipeline",
+    "team": [
+      "Priya Sharma"
+    ],
+    "files": [
+      "Offering_Memo_Nykaa.pdf",
+      "Credit_Model_Nykaa.xlsx",
+      "Rating_Agency_Pres_Nykaa.pptx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 20.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 235,
+    "name": "Bajaj Auto Merger",
+    "client": "Bajaj Auto",
+    "type": "M&A",
+    "sector": "BFSI",
+    "year": 2018,
+    "value_cr": 5257.8,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor",
+      "Neha Jain"
+    ],
+    "files": [
+      "IM_BajajAuto.pdf",
+      "DCF_Model_BajajAuto.xlsx",
+      "Mgmt_Presentation_BajajAuto.pptx",
+      "NDA_BajajAuto.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 34.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 236,
+    "name": "Unacademy Growth Equity",
+    "client": "Unacademy",
+    "type": "PE/VC",
+    "sector": "EdTech",
+    "year": 2018,
+    "value_cr": 8005.2,
+    "status": "Closed",
+    "team": [
+      "Arjun Mehta"
+    ],
+    "files": [
+      "VC_Model_Unacademy.xlsx",
+      "Investor_Deck_Unacademy.pptx",
+      "Term_Sheet_Unacademy.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 157.3,
+    "source": "mock_generator"
+  },
+  {
+    "id": 237,
+    "name": "Cipla FPO",
+    "client": "Cipla",
+    "type": "ECM",
+    "sector": "Infrastructure",
+    "year": 2021,
+    "value_cr": 4192.0,
+    "status": "In Progress",
+    "team": [
+      "Rishi Kapoor",
+      "Rohan Gupta",
+      "Neha Jain"
+    ],
+    "files": [
+      "Prospectus_Cipla.pdf",
+      "IPO_Model_Cipla.xlsx",
+      "Anchor_Deck_Cipla.pptx",
+      "Roadshow_Pres_Cipla.pdf"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Oversubscribed"
+    ],
+    "region": "India",
+    "revenue_cr": 90.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 238,
+    "name": "Mahindra Acquisition",
+    "client": "Mahindra",
+    "type": "M&A",
+    "sector": "Healthcare",
+    "year": 2019,
+    "value_cr": 1025.3,
+    "status": "Closed",
+    "team": [
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "IM_Mahindra.pdf",
+      "DCF_Model_Mahindra.xlsx",
+      "Mgmt_Presentation_Mahindra.pptx",
+      "Valuation_Bridge_Mahindra.xlsx"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 11.6,
+    "source": "mock_generator"
+  },
+  {
+    "id": 239,
+    "name": "Zerodha IPO",
+    "client": "Zerodha",
+    "type": "ECM",
+    "sector": "EdTech",
+    "year": 2021,
+    "value_cr": 5013.0,
+    "status": "Closed",
+    "team": [
+      "Ananya Roy",
+      "Arjun Mehta"
+    ],
+    "files": [
+      "Prospectus_Zerodha.pdf",
+      "IPO_Model_Zerodha.xlsx",
+      "Anchor_Deck_Zerodha.pptx"
+    ],
+    "tags": [
+      "BSE/NSE",
+      "Standard"
+    ],
+    "region": "India",
+    "revenue_cr": 147.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 240,
+    "name": "ITC Spin-off",
+    "client": "ITC",
+    "type": "M&A",
+    "sector": "Fintech",
+    "year": 2021,
+    "value_cr": 9056.0,
+    "status": "Pipeline",
+    "team": [
+      "Arjun Mehta",
+      "Priya Sharma",
+      "Rohan Gupta"
+    ],
+    "files": [
+      "IM_ITC.pdf",
+      "Mgmt_Presentation_ITC.pptx",
+      "Valuation_Bridge_ITC.xlsx",
+      "NDA_ITC.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 97.5,
+    "source": "mock_generator"
+  },
+  {
+    "id": 241,
+    "name": "Swiggy Spin-off",
+    "client": "Swiggy",
+    "type": "M&A",
+    "sector": "Fintech",
+    "year": 2018,
+    "value_cr": 4333.3,
+    "status": "Closed",
+    "team": [
+      "Arjun Mehta"
+    ],
+    "files": [
+      "DCF_Model_Swiggy.xlsx",
+      "Mgmt_Presentation_Swiggy.pptx",
+      "Valuation_Bridge_Swiggy.xlsx",
+      "NDA_Swiggy.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 33.1,
+    "source": "mock_generator"
+  },
+  {
+    "id": 242,
+    "name": "Swiggy Spin-off",
+    "client": "Swiggy",
+    "type": "M&A",
+    "sector": "Healthcare",
+    "year": 2023,
+    "value_cr": 10275.2,
+    "status": "Closed",
+    "team": [
+      "Neha Jain",
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "IM_Swiggy.pdf",
+      "DCF_Model_Swiggy.xlsx",
+      "Mgmt_Presentation_Swiggy.pptx",
+      "Valuation_Bridge_Swiggy.xlsx",
+      "NDA_Swiggy.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 130.5,
+    "source": "mock_generator"
+  },
+  {
+    "id": 243,
+    "name": "Tata Motors $500M Notes",
+    "client": "Tata Motors",
+    "type": "DCM",
+    "sector": "Consumer Tech",
+    "year": 2024,
+    "value_cr": 7736.0,
+    "status": "Closed",
+    "team": [
+      "Karan Singh",
+      "Ananya Roy"
+    ],
+    "files": [
+      "Credit_Model_TataMotors.xlsx",
+      "Rating_Agency_Pres_TataMotors.pptx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 32.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 244,
+    "name": "Oyo Buyout",
+    "client": "Oyo",
+    "type": "M&A",
+    "sector": "Fintech",
+    "year": 2022,
+    "value_cr": 6005.0,
+    "status": "In Progress",
+    "team": [
+      "Priya Sharma"
+    ],
+    "files": [
+      "IM_Oyo.pdf",
+      "DCF_Model_Oyo.xlsx",
+      "Mgmt_Presentation_Oyo.pptx",
+      "Valuation_Bridge_Oyo.xlsx",
+      "NDA_Oyo.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 85.0,
+    "source": "mock_generator"
+  },
+  {
+    "id": 245,
+    "name": "Sun Pharma Series D",
+    "client": "Sun Pharma",
+    "type": "PE/VC",
+    "sector": "Consumer Tech",
+    "year": 2019,
+    "value_cr": 5860.7,
+    "status": "Closed",
+    "team": [
+      "Karan Singh",
+      "Ananya Roy"
+    ],
+    "files": [
+      "CIM_SunPharma.pdf",
+      "VC_Model_SunPharma.xlsx",
+      "Investor_Deck_SunPharma.pptx",
+      "Term_Sheet_SunPharma.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 106.2,
+    "source": "mock_generator"
+  },
+  {
+    "id": 246,
+    "name": "ITC Series C",
+    "client": "ITC",
+    "type": "PE/VC",
+    "sector": "Infrastructure",
+    "year": 2024,
+    "value_cr": 2250.9,
+    "status": "Pipeline",
+    "team": [
+      "Rishi Kapoor",
+      "Rohan Gupta"
+    ],
+    "files": [
+      "CIM_ITC.pdf",
+      "VC_Model_ITC.xlsx",
+      "Investor_Deck_ITC.pptx",
+      "Term_Sheet_ITC.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 51.2,
+    "source": "mock_generator"
+  },
+  {
+    "id": 247,
+    "name": "Unacademy Merger",
+    "client": "Unacademy",
+    "type": "M&A",
+    "sector": "Infrastructure",
+    "year": 2021,
+    "value_cr": 7442.1,
+    "status": "In Progress",
+    "team": [
+      "Rohan Gupta",
+      "Neha Jain",
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "IM_Unacademy.pdf",
+      "DCF_Model_Unacademy.xlsx",
+      "Mgmt_Presentation_Unacademy.pptx",
+      "Valuation_Bridge_Unacademy.xlsx",
+      "NDA_Unacademy.pdf"
+    ],
+    "tags": [
+      "Domestic",
+      "Strategic"
+    ],
+    "region": "India",
+    "revenue_cr": 98.5,
+    "source": "mock_generator"
+  },
+  {
+    "id": 248,
+    "name": "Sun Pharma Growth Equity",
+    "client": "Sun Pharma",
+    "type": "PE/VC",
+    "sector": "Infrastructure",
+    "year": 2023,
+    "value_cr": 4089.8,
+    "status": "Closed",
+    "team": [
+      "Rohan Gupta",
+      "Rishi Kapoor"
+    ],
+    "files": [
+      "CIM_SunPharma.pdf",
+      "VC_Model_SunPharma.xlsx",
+      "Investor_Deck_SunPharma.pptx"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 44.7,
+    "source": "mock_generator"
+  },
+  {
+    "id": 249,
+    "name": "Byjus $500M Notes",
+    "client": "Byjus",
+    "type": "DCM",
+    "sector": "Energy",
+    "year": 2019,
+    "value_cr": 10938.6,
+    "status": "Pipeline",
+    "team": [
+      "Karan Singh",
+      "Vikram Patel"
+    ],
+    "files": [
+      "Offering_Memo_Byjus.pdf",
+      "Rating_Agency_Pres_Byjus.pptx"
+    ],
+    "tags": [
+      "High Yield",
+      "Debt"
+    ],
+    "region": "India",
+    "revenue_cr": 42.8,
+    "source": "mock_generator"
+  },
+  {
+    "id": 250,
+    "name": "Sun Pharma Series C",
+    "client": "Sun Pharma",
+    "type": "PE/VC",
+    "sector": "BFSI",
+    "year": 2022,
+    "value_cr": 3481.0,
+    "status": "Pipeline",
+    "team": [
+      "Rishi Kapoor",
+      "Neha Jain"
+    ],
+    "files": [
+      "CIM_SunPharma.pdf",
+      "VC_Model_SunPharma.xlsx",
+      "Investor_Deck_SunPharma.pptx",
+      "Term_Sheet_SunPharma.pdf"
+    ],
+    "tags": [
+      "Growth Equity",
+      "Late Stage"
+    ],
+    "region": "India",
+    "revenue_cr": 73.3,
+    "source": "mock_generator"
+  }
+]

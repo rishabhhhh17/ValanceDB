@@ -59,7 +59,12 @@ export default function AutomationTab() {
               <div className="flex justify-between items-start mb-2">
                 <h3 style={{margin: 0, paddingRight: '60px'}}>{opp.title}</h3>
               </div>
-              <div className="text-muted text-sm mb-4">{opp.category} • {opp.saving} Saving</div>
+              <div className="text-muted text-sm mb-4">
+                {opp.category} • {opp.saving} Saving
+                <div style={{marginTop: '6px', fontSize: '0.8rem', color: '#64748b', lineHeight: 1.4}}>
+                  Metric info: "Effort" evaluates engineering time vs ROI. "Impact" evaluates the expected operational efficiency gain across the firm.
+                </div>
+              </div>
               
               <div className="flex gap-4 mb-4">
                 <div>

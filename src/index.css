@@ -291,6 +291,16 @@ button {
 }
 .animate-fade-in { animation: fadeIn 0.3s ease forwards; }
 
+@keyframes slideIn {
+  from { transform: translateX(100%); opacity: 0; }
+  to   { transform: translateX(0);    opacity: 1; }
+}
+
+.items-end   { align-items: flex-end; }
+.items-start { align-items: flex-start; }
+.flex-1      { flex: 1; }
+.overflow-y-auto { overflow-y: auto; }
+
 .flex { display: flex; }
 .flex-col { display: flex; flex-direction: column; }
 .items-center { align-items: center; }
@@ -337,4 +347,38 @@ button {
   background: rgba(255, 255, 255, 0.4);
   margin-bottom: 0.5rem;
   font-size: 0.9rem;
+}
+
+/* Tooltips */
+.tooltip-container {
+  display: inline-flex;
+  position: relative;
+  cursor: help;
+  margin-left: 0.5rem;
+  align-items: center;
+}
+.tooltip-container:hover .tooltip-content {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+.tooltip-content {
+  position: absolute;
+  bottom: 120%;
+  left: 50%;
+  transform: translateX(-50%) translateY(5px);
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-subtle);
+  padding: 0.5rem 0.75rem;
+  border-radius: var(--radius-sm);
+  font-size: 0.75rem;
+  color: var(--text-primary);
+  width: 200px;
+  text-align: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.2s ease;
+  z-index: 50;
+  box-shadow: var(--shadow-sm);
+  pointer-events: none;
 }

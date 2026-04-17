@@ -3,6 +3,20 @@
 .env.*
 !.env.example
 
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Misc scripts
+*.py
+claude.md
+
 # Logs
 logs
 *.log
